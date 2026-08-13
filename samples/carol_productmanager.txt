@@ -1,0 +1,39 @@
+CAROL WILLIAMS
+Technical Product Manager | New York, NY
+Email: carol.williams@productlabs.co | Phone: +1 (212) 555-0177
+
+SUMMARY
+Results-driven Technical Product Manager with 5 years of experience leading cross-functional engineering teams, defining product roadmaps, and delivering high-impact SaaS platforms. Expert in Agile/Scrum methodologies, user research, and data-driven prioritization.
+
+SKILLS
+- Product Management: Product Strategy, Roadmap Definition, Agile/Scrum, User Personas, Feature Prioritization
+- Tools: JIRA, Confluence, Figma, Tableau, Amplitude, Mixpanel
+- Technical: SQL, Basic Python, Git, System Architecture, APIs
+- Soft Skills: Stakeholder Management, User Research, Communication, Leadership
+
+PROFESSIONAL EXPERIENCE
+
+Technical Product Manager | SaaSify Inc (2022 - Present)
+- Owned the end-to-end lifecycle of a new B2B analytics portal, generating $1.2M in annual recurring revenue (ARR) in its first year.
+- Led a cross-functional squad of 8 engineers and 2 UX designers using Scrum framework.
+- Defined product requirement documents (PRDs) and prioritized the product backlog based on customer feedback and analytics.
+- Reduced onboarding friction by 25% by analyzing conversion funnels in Mixpanel and implementing UI revisions.
+
+Associate Product Manager | RetailFlow Solutions (2020 - 2022)
+- Collaborated with senior PMs to write user stories and coordinate weekly product releases.
+- Conducted user interviews and survey research to identify market gaps and customer pain points.
+- Analyzed product usage logs using SQL to generate feature adoption reports.
+
+EDUCATION
+Master of Business Administration (MBA)
+Columbia Business School | Graduated 2020
+
+Bachelor of Science in Mechanical Engineering
+Cornell University | Graduated 2018
+
+PROJECTS
+- LocalShop: A mobile prototype app built in Figma to help users discover local independent grocery stores, backed by user research interviews.
+- PMHelper: A small Python scripting tool that scrapes user feedback forums and categorizes requests using basic regex keyword matching.
+
+CERTIFICATIONS
+- Certified Scrum Product Owner (CSPO) - Scrum Alliance

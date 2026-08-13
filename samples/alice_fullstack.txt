@@ -1,0 +1,37 @@
+ALICE SMITH
+Full Stack Engineer | Seattle, WA
+Email: alice.smith@techdomain.io | Phone: +1 (206) 555-0199
+
+SUMMARY
+Detail-oriented and innovative Full Stack Engineer with 4 years of experience designing, building, and deploying robust web applications. Expert in React frontend ecosystems and FastAPI/Node.js backends. Experienced with AWS cloud services and Docker containerization.
+
+TECHNICAL SKILLS
+- Frontend: React, Redux, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+- Backend: Python, FastAPI, Node.js, Express, RESTful APIs, GraphQL
+- Databases: PostgreSQL, MongoDB, Redis
+- Cloud & DevOps: AWS (S3, EC2, Lambda), Docker, Git, CI/CD pipelines
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | CloudScale Solutions (2023 - Present)
+- Led a team of 3 developers to migrate a legacy PHP monolith to a modern React + FastAPI serverless architecture.
+- Improved application load time by 45% by implementing lazy loading, Redux caching, and asset optimization.
+- Designed and built secure, highly scalable REST APIs in Python using FastAPI, reducing database response times by 30% through query optimization.
+- Configured automated CI/CD pipelines using GitHub Actions, deploying dockerized containers directly to AWS ECS.
+
+Software Engineer | DevStream LLC (2021 - 2023)
+- Developed and maintained responsive user interfaces using React and Tailwind CSS.
+- Built reusable React components, contributing to a shared company-wide design system.
+- Designed Node.js microservices to handle user authentication, session state, and payments.
+- Collaborated closely with product managers and designers to translate Figma mockups into functional web applications.
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Washington, Seattle | Graduated 2021
+
+PROJECTS
+- DevBoard: A personal Kanban task board app built using React, FastAPI, and PostgreSQL, featuring collaborative real-time editing via WebSockets.
+- CloudStream: An image hosting and processing pipeline using AWS Lambda and S3, with a simple React dashboard interface.
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate (2023)

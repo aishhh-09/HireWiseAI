@@ -1,0 +1,2909 @@
+{
+  "resumes": {
+    "3654ec83-c850-49c0-a21b-31137d890d1e": {
+      "id": "3654ec83-c850-49c0-a21b-31137d890d1e",
+      "filename": "alice_fullstack.txt",
+      "pdf_path": "C:\\Users\\aishw\\.gemini\\antigravity\\scratch\\smart-resume-ranker\\backend\\uploads\\3654ec83-c850-49c0-a21b-31137d890d1e.pdf",
+      "parsed_data": {
+        "personal_info": {
+          "name": "ALICE SMITH",
+          "email": "alice.smith@techdomain.io",
+          "phone": "+1 (206) 555-0199",
+          "location": "Seattle, WA"
+        },
+        "skills": [
+          "React",
+          "Redux",
+          "JavaScript (ES6+)",
+          "HTML5",
+          "CSS3",
+          "Tailwind CSS",
+          "Python",
+          "FastAPI",
+          "Node.js",
+          "Express",
+          "RESTful APIs",
+          "GraphQL",
+          "PostgreSQL",
+          "MongoDB",
+          "Redis",
+          "AWS (S3, EC2, Lambda)",
+          "Docker",
+          "Git",
+          "CI/CD pipelines"
+        ],
+        "experience": [
+          {
+            "role": "Senior Software Engineer",
+            "company": "CloudScale Solutions",
+            "duration": "2023 - Present",
+            "description": "Led a team of 3 developers to migrate a legacy PHP monolith to a modern React + FastAPI serverless architecture. Improved application load time by 45% by implementing lazy loading, Redux caching, and asset optimization. Designed and built secure, highly scalable REST APIs in Python using FastAPI, reducing database response times by 30% through query optimization. Configured automated CI/CD pipelines using GitHub Actions, deploying dockerized containers directly to AWS ECS."
+          },
+          {
+            "role": "Software Engineer",
+            "company": "DevStream LLC",
+            "duration": "2021 - 2023",
+            "description": "Developed and maintained responsive user interfaces using React and Tailwind CSS. Built reusable React components, contributing to a shared company-wide design system. Designed Node.js microservices to handle user authentication, session state, and payments. Collaborated closely with product managers and designers to translate Figma mockups into functional web applications."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Computer Science",
+            "institution": "University of Washington, Seattle",
+            "year": "2021"
+          }
+        ],
+        "certifications": [
+          "AWS Certified Solutions Architect - Associate (2023)"
+        ],
+        "projects": [
+          {
+            "name": "DevBoard",
+            "tech_stack": [
+              "React",
+              "FastAPI",
+              "PostgreSQL",
+              "WebSockets"
+            ],
+            "description": "A personal Kanban task board app built using React, FastAPI, and PostgreSQL, featuring collaborative real-time editing via WebSockets."
+          },
+          {
+            "name": "CloudStream",
+            "tech_stack": [
+              "AWS Lambda",
+              "S3",
+              "React"
+            ],
+            "description": "An image hosting and processing pipeline using AWS Lambda and S3, with a simple React dashboard interface."
+          }
+        ]
+      },
+      "anonymized_profile": {
+        "personal_info": {
+          "name": "Candidate",
+          "email": "",
+          "phone": "vspace{4pt}\n    [HIDDEN FOR BIAS-FREE SCREENING]",
+          "location": "[HIDDEN FOR BIAS-FREE SCREENING]"
+        },
+        "skills": [
+          "React",
+          "Redux",
+          "JavaScript (ES6+)",
+          "HTML5",
+          "CSS3",
+          "Tailwind CSS",
+          "Python",
+          "FastAPI",
+          "Node.js",
+          "Express",
+          "RESTful APIs",
+          "GraphQL",
+          "PostgreSQL",
+          "MongoDB",
+          "Redis",
+          "AWS (S3",
+          "EC2",
+          "Lambda)",
+          "Docker",
+          "Git",
+          "CI/CD pipelines"
+        ],
+        "experience": [
+          {
+            "role": "Senior Software Engineer",
+            "duration": "2023 - Present",
+            "company": "CloudScale Solutions",
+            "description": "Led a team of 3 developers to migrate a legacy PHP monolith to a modern React + FastAPI serverless architecture.. Improved application load time by 45% by implementing lazy loading, Redux caching, and asset optimization.. Designed and built secure, highly scalable REST APIs in Python using FastAPI, reducing database response times by 30% through query optimization.. Configured automated CI/CD pipelines using GitHub Actions, deploying dockerized containers directly to AWS ECS."
+          },
+          {
+            "role": "Software Engineer",
+            "duration": "2021 - 2023",
+            "company": "DevStream LLC",
+            "description": "Developed and maintained responsive user interfaces using React and Tailwind CSS.. Built reusable React components, contributing to a shared company-wide design system.. Designed Node.. js microservices to handle user authentication, session state, and payments.. Collaborated closely with product managers and designers to translate Figma mockups into functional web applications."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Senior Software Engineer",
+            "year": "2023 - Present",
+            "institution": "CloudScale Solutions"
+          },
+          {
+            "degree": "Software Engineer",
+            "year": "2021 - 2023",
+            "institution": "DevStream LLC"
+          },
+          {
+            "degree": "Bachelor of Science in Computer Science",
+            "year": "2021",
+            "institution": "University of Washington, Seattle"
+          }
+        ],
+        "certifications": [
+          "AWS Certified Solutions Architect - Associate (2023)"
+        ],
+        "projects": [
+          {
+            "name": "DevBoard",
+            "tech_stack": [
+              "React",
+              "FastAPI",
+              "PostgreSQL",
+              "WebSockets"
+            ],
+            "description": "A personal Kanban task board app built using React, FastAPI, and PostgreSQL, featuring collaborative real-time editing via WebSockets."
+          },
+          {
+            "name": "CloudStream",
+            "tech_stack": [
+              "AWS Lambda",
+              "S3",
+              "React"
+            ],
+            "description": "An image hosting and processing pipeline using AWS Lambda and S3, with a simple React dashboard interface."
+          }
+        ]
+      }
+    },
+    "0b7bc61f-4b1d-42b2-9155-284d3708e82b": {
+      "id": "0b7bc61f-4b1d-42b2-9155-284d3708e82b",
+      "filename": "alice_fullstack.txt",
+      "pdf_path": "C:\\Users\\aishw\\.gemini\\antigravity\\scratch\\smart-resume-ranker\\backend\\uploads\\0b7bc61f-4b1d-42b2-9155-284d3708e82b.pdf",
+      "parsed_data": {
+        "personal_info": {
+          "name": "Carol Jenkins",
+          "email": "carol.jenkins@talentpool.org",
+          "phone": "+1 (415) 555-0122",
+          "location": "San Francisco, CA"
+        },
+        "skills": [
+          "Product Management",
+          "Roadmap Definition",
+          "Agile/Scrum",
+          "SQL",
+          "Jira",
+          "Confluence",
+          "A/B Testing",
+          "Google Analytics",
+          "User Research"
+        ],
+        "experience": [
+          {
+            "role": "Senior Product Manager",
+            "company": "InnovateTech Labs",
+            "duration": "2022 - Present",
+            "description": "Defined product roadmap and led development of cloud analytics dashboards. Coordinated sprints with 8 frontend and backend engineers, increasing release velocity by 25%. Directed user research sessions and A/B testing campaigns, boosting activation rates by 18%."
+          },
+          {
+            "role": "Product Manager",
+            "company": "GrowthLoop Studio",
+            "duration": "2020 - 2022",
+            "description": "Managed user onboarding features and optimization experiments. Authored technical product specifications and SQL analytics pipelines to track funnel metrics."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Business & Computer Science",
+            "institution": "Stanford University",
+            "year": "2020"
+          }
+        ],
+        "certifications": [
+          "Certified Scrum Product Owner (CSPO)"
+        ],
+        "projects": [
+          {
+            "name": "OnboardFlow",
+            "tech_stack": [
+              "SQL",
+              "Mixpanel",
+              "Optimizely"
+            ],
+            "description": "Redesigned registration flow leading to 12% improvement in user activation."
+          }
+        ]
+      },
+      "anonymized_profile": {
+        "personal_info": {
+          "name": "Candidate #0B7BC",
+          "email": "[HIDDEN FOR BIAS-FREE SCREENING]",
+          "phone": "[HIDDEN FOR BIAS-FREE SCREENING]",
+          "location": "[HIDDEN FOR BIAS-FREE SCREENING]"
+        },
+        "skills": [
+          "Product Management",
+          "Roadmap Definition",
+          "Agile/Scrum",
+          "SQL",
+          "Jira",
+          "Confluence",
+          "A/B Testing",
+          "Google Analytics",
+          "User Research"
+        ],
+        "experience": [
+          {
+            "role": "Senior Product Manager",
+            "company": "InnovateTech Labs",
+            "duration": "2022 - Present",
+            "description": "Defined product roadmap and led development of cloud analytics dashboards. Coordinated sprints with 8 frontend and backend engineers, increasing release velocity by 25%. Directed user research sessions and A/B testing campaigns, boosting activation rates by 18%."
+          },
+          {
+            "role": "Product Manager",
+            "company": "GrowthLoop Studio",
+            "duration": "2020 - 2022",
+            "description": "Managed user onboarding features and optimization experiments. Authored technical product specifications and SQL analytics pipelines to track funnel metrics."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Business & Computer Science",
+            "institution": "Stanford University",
+            "year": "2020"
+          }
+        ],
+        "certifications": [
+          "Certified Scrum Product Owner (CSPO)"
+        ],
+        "projects": [
+          {
+            "name": "OnboardFlow",
+            "tech_stack": [
+              "SQL",
+              "Mixpanel",
+              "Optimizely"
+            ],
+            "description": "Redesigned registration flow leading to 12% improvement in user activation."
+          }
+        ]
+      }
+    },
+    "457d93f4-06bb-45a1-9f6e-17d2a53eecc8": {
+      "id": "457d93f4-06bb-45a1-9f6e-17d2a53eecc8",
+      "filename": "carol_productmanager.txt",
+      "pdf_path": "C:\\Users\\aishw\\.gemini\\antigravity\\scratch\\smart-resume-ranker\\backend\\uploads\\457d93f4-06bb-45a1-9f6e-17d2a53eecc8.pdf",
+      "parsed_data": {
+        "personal_info": {
+          "name": "CAROL WILLIAMS",
+          "email": "carol.williams@productlabs.co",
+          "phone": "+1 (212) 555-0177",
+          "location": "New York, NY"
+        },
+        "skills": [
+          "Product Strategy",
+          "Roadmap Definition",
+          "Agile/Scrum",
+          "User Personas",
+          "Feature Prioritization",
+          "JIRA",
+          "Confluence",
+          "Figma",
+          "Tableau",
+          "Amplitude",
+          "Mixpanel",
+          "SQL",
+          "Basic Python",
+          "Git",
+          "System Architecture",
+          "APIs",
+          "Stakeholder Management",
+          "User Research",
+          "Communication",
+          "Leadership"
+        ],
+        "experience": [
+          {
+            "role": "Technical Product Manager",
+            "company": "SaaSify Inc",
+            "duration": "2022 - Present",
+            "description": "Owned the end-to-end lifecycle of a new B2B analytics portal, generating $1.2M in annual recurring revenue (ARR) in its first year.\nLed a cross-functional squad of 8 engineers and 2 UX designers using Scrum framework.\nDefined product requirement documents (PRDs) and prioritized the product backlog based on customer feedback and analytics.\nReduced onboarding friction by 25% by analyzing conversion funnels in Mixpanel and implementing UI revisions."
+          },
+          {
+            "role": "Associate Product Manager",
+            "company": "RetailFlow Solutions",
+            "duration": "2020 - 2022",
+            "description": "Collaborated with senior PMs to write user stories and coordinate weekly product releases.\nConducted user interviews and survey research to identify market gaps and customer pain points.\nAnalyzed product usage logs using SQL to generate feature adoption reports."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Business Administration (MBA)",
+            "institution": "Columbia Business School",
+            "year": "2020"
+          },
+          {
+            "degree": "Bachelor of Science in Mechanical Engineering",
+            "institution": "Cornell University",
+            "year": "2018"
+          }
+        ],
+        "certifications": [
+          "Certified Scrum Product Owner (CSPO) - Scrum Alliance"
+        ],
+        "projects": [
+          {
+            "name": "LocalShop",
+            "tech_stack": [
+              "Figma"
+            ],
+            "description": "A mobile prototype app built in Figma to help users discover local independent grocery stores, backed by user research interviews."
+          },
+          {
+            "name": "PMHelper",
+            "tech_stack": [
+              "Python",
+              "Regex"
+            ],
+            "description": "A small Python scripting tool that scrapes user feedback forums and categorizes requests using basic regex keyword matching."
+          }
+        ]
+      },
+      "anonymized_profile": {
+        "personal_info": {
+          "name": "Candidate #457D9",
+          "email": "[HIDDEN FOR BIAS-FREE SCREENING]",
+          "phone": "[HIDDEN FOR BIAS-FREE SCREENING]",
+          "location": "[HIDDEN FOR BIAS-FREE SCREENING]"
+        },
+        "skills": [
+          "Product Strategy",
+          "Roadmap Definition",
+          "Agile/Scrum",
+          "User Personas",
+          "Feature Prioritization",
+          "JIRA",
+          "Confluence",
+          "Figma",
+          "Tableau",
+          "Amplitude",
+          "Mixpanel",
+          "SQL",
+          "Basic Python",
+          "Git",
+          "System Architecture",
+          "APIs",
+          "Stakeholder Management",
+          "User Research",
+          "Communication",
+          "Leadership"
+        ],
+        "experience": [
+          {
+            "role": "Technical Product Manager",
+            "company": "SaaSify Inc",
+            "duration": "2022 - Present",
+            "description": "Owned the end-to-end lifecycle of a new B2B analytics portal, generating $1.2M in annual recurring revenue (ARR) in its first year.\nLed a cross-functional squad of 8 engineers and 2 UX designers using Scrum framework.\nDefined product requirement documents (PRDs) and prioritized the product backlog based on customer feedback and analytics.\nReduced onboarding friction by 25% by analyzing conversion funnels in Mixpanel and implementing UI revisions."
+          },
+          {
+            "role": "Associate Product Manager",
+            "company": "RetailFlow Solutions",
+            "duration": "2020 - 2022",
+            "description": "Collaborated with senior PMs to write user stories and coordinate weekly product releases.\nConducted user interviews and survey research to identify market gaps and customer pain points.\nAnalyzed product usage logs using SQL to generate feature adoption reports."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Business Administration (MBA)",
+            "institution": "Columbia Business School",
+            "year": "2020"
+          },
+          {
+            "degree": "Bachelor of Science in Mechanical Engineering",
+            "institution": "Cornell University",
+            "year": "2018"
+          }
+        ],
+        "certifications": [
+          "Certified Scrum Product Owner (CSPO) - Scrum Alliance"
+        ],
+        "projects": [
+          {
+            "name": "LocalShop",
+            "tech_stack": [
+              "Figma"
+            ],
+            "description": "A mobile prototype app built in Figma to help users discover local independent grocery stores, backed by user research interviews."
+          },
+          {
+            "name": "PMHelper",
+            "tech_stack": [
+              "Python",
+              "Regex"
+            ],
+            "description": "A small Python scripting tool that scrapes user feedback forums and categorizes requests using basic regex keyword matching."
+          }
+        ]
+      }
+    },
+    "df09bad5-d8e3-49d3-897f-7df6b3f47775": {
+      "id": "df09bad5-d8e3-49d3-897f-7df6b3f47775",
+      "filename": "carol_productmanager.txt",
+      "pdf_path": "C:\\Users\\aishw\\.gemini\\antigravity\\scratch\\smart-resume-ranker\\backend\\uploads\\df09bad5-d8e3-49d3-897f-7df6b3f47775.pdf",
+      "parsed_data": {
+        "personal_info": {
+          "name": "CAROL WILLIAMS",
+          "email": "carol.williams@productlabs.co",
+          "phone": "+1 (212) 555-0177",
+          "location": "New York, NY"
+        },
+        "skills": [
+          "Product Strategy",
+          "Roadmap Definition",
+          "Agile/Scrum",
+          "User Personas",
+          "Feature Prioritization",
+          "JIRA",
+          "Confluence",
+          "Figma",
+          "Tableau",
+          "Amplitude",
+          "Mixpanel",
+          "SQL",
+          "Basic Python",
+          "Git",
+          "System Architecture",
+          "APIs",
+          "Stakeholder Management",
+          "User Research",
+          "Communication",
+          "Leadership"
+        ],
+        "experience": [
+          {
+            "role": "Technical Product Manager",
+            "company": "SaaSify Inc",
+            "duration": "2022 - Present",
+            "description": "Owned the end-to-end lifecycle of a new B2B analytics portal, generating $1.2M in annual recurring revenue (ARR) in its first year. Led a cross-functional squad of 8 engineers and 2 UX designers using Scrum framework. Defined product requirement documents (PRDs) and prioritized the product backlog based on customer feedback and analytics. Reduced onboarding friction by 25% by analyzing conversion funnels in Mixpanel and implementing UI revisions."
+          },
+          {
+            "role": "Associate Product Manager",
+            "company": "RetailFlow Solutions",
+            "duration": "2020 - 2022",
+            "description": "Collaborated with senior PMs to write user stories and coordinate weekly product releases. Conducted user interviews and survey research to identify market gaps and customer pain points. Analyzed product usage logs using SQL to generate feature adoption reports."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Business Administration (MBA)",
+            "institution": "Columbia Business School",
+            "year": "2020"
+          },
+          {
+            "degree": "Bachelor of Science in Mechanical Engineering",
+            "institution": "Cornell University",
+            "year": "2018"
+          }
+        ],
+        "certifications": [
+          "Certified Scrum Product Owner (CSPO) - Scrum Alliance"
+        ],
+        "projects": [
+          {
+            "name": "LocalShop",
+            "tech_stack": [
+              "Figma"
+            ],
+            "description": "A mobile prototype app built in Figma to help users discover local independent grocery stores, backed by user research interviews."
+          },
+          {
+            "name": "PMHelper",
+            "tech_stack": [
+              "Python",
+              "regex"
+            ],
+            "description": "A small Python scripting tool that scrapes user feedback forums and categorizes requests using basic regex keyword matching."
+          }
+        ]
+      },
+      "anonymized_profile": {
+        "personal_info": {
+          "name": "Candidate #DF09B",
+          "email": "[HIDDEN FOR BIAS-FREE SCREENING]",
+          "phone": "[HIDDEN FOR BIAS-FREE SCREENING]",
+          "location": "[HIDDEN FOR BIAS-FREE SCREENING]"
+        },
+        "skills": [
+          "Product Strategy",
+          "Roadmap Definition",
+          "Agile/Scrum",
+          "User Personas",
+          "Feature Prioritization",
+          "JIRA",
+          "Confluence",
+          "Figma",
+          "Tableau",
+          "Amplitude",
+          "Mixpanel",
+          "SQL",
+          "Basic Python",
+          "Git",
+          "System Architecture",
+          "APIs",
+          "Stakeholder Management",
+          "User Research",
+          "Communication",
+          "Leadership"
+        ],
+        "experience": [
+          {
+            "role": "Technical Product Manager",
+            "company": "SaaSify Inc",
+            "duration": "2022 - Present",
+            "description": "Owned the end-to-end lifecycle of a new B2B analytics portal, generating $1.2M in annual recurring revenue (ARR) in its first year. Led a cross-functional squad of 8 engineers and 2 UX designers using Scrum framework. Defined product requirement documents (PRDs) and prioritized the product backlog based on customer feedback and analytics. Reduced onboarding friction by 25% by analyzing conversion funnels in Mixpanel and implementing UI revisions."
+          },
+          {
+            "role": "Associate Product Manager",
+            "company": "RetailFlow Solutions",
+            "duration": "2020 - 2022",
+            "description": "Collaborated with senior PMs to write user stories and coordinate weekly product releases. Conducted user interviews and survey research to identify market gaps and customer pain points. Analyzed product usage logs using SQL to generate feature adoption reports."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Business Administration (MBA)",
+            "institution": "Columbia Business School",
+            "year": "2020"
+          },
+          {
+            "degree": "Bachelor of Science in Mechanical Engineering",
+            "institution": "Cornell University",
+            "year": "2018"
+          }
+        ],
+        "certifications": [
+          "Certified Scrum Product Owner (CSPO) - Scrum Alliance"
+        ],
+        "projects": [
+          {
+            "name": "LocalShop",
+            "tech_stack": [
+              "Figma"
+            ],
+            "description": "A mobile prototype app built in Figma to help users discover local independent grocery stores, backed by user research interviews."
+          },
+          {
+            "name": "PMHelper",
+            "tech_stack": [
+              "Python",
+              "regex"
+            ],
+            "description": "A small Python scripting tool that scrapes user feedback forums and categorizes requests using basic regex keyword matching."
+          }
+        ]
+      }
+    },
+    "4db8174c-a8aa-4697-a74c-f6c071cfd53f": {
+      "id": "4db8174c-a8aa-4697-a74c-f6c071cfd53f",
+      "filename": "bob_datascientist.txt",
+      "pdf_path": "C:\\Users\\aishw\\.gemini\\antigravity\\scratch\\smart-resume-ranker\\backend\\uploads\\4db8174c-a8aa-4697-a74c-f6c071cfd53f.pdf",
+      "parsed_data": {
+        "personal_info": {
+          "name": "BOB JOHNSON",
+          "email": "bob.johnson@dataminds.com",
+          "phone": "+1 (415) 555-0142",
+          "location": "San Francisco, CA"
+        },
+        "skills": [
+          "Python",
+          "R",
+          "SQL",
+          "MATLAB",
+          "Pandas",
+          "NumPy",
+          "Scikit-learn",
+          "PyTorch",
+          "TensorFlow",
+          "SciPy",
+          "NLTK",
+          "Tableau",
+          "Matplotlib",
+          "Seaborn",
+          "Git",
+          "Docker",
+          "Apache Spark",
+          "PostgreSQL"
+        ],
+        "experience": [
+          {
+            "role": "Data Scientist",
+            "company": "Alpha Analytics Corp",
+            "duration": "2023 - Present",
+            "description": "Developed and deployed a customer churn prediction model using Random Forests and Gradient Boosting in PyTorch, reducing churn by 12%.\nBuilt data processing pipelines in Python/Pandas that cleaned and aggregated over 10M rows of raw transaction data daily.\nDesigned A/B testing frameworks for UI changes, analyzing user engagement metrics with custom statistics models.\nCollaborated with database engineers to optimize SQL query speeds, reducing data extraction times by 40%."
+          },
+          {
+            "role": "Junior Data Analyst",
+            "company": "InfoTech Systems",
+            "duration": "2021 - 2023",
+            "description": "Prepared daily and weekly operational performance dashboards in Tableau for executive leadership.\nConducted exploratory data analysis (EDA) to uncover trends in client usage patterns.\nAutomated report generation using custom Python scripts and cron jobs, saving the team 5 hours per week."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science",
+            "institution": "University of San Francisco",
+            "year": "2021"
+          },
+          {
+            "degree": "Bachelor of Science in Statistics",
+            "institution": "University of California, Davis",
+            "year": "2019"
+          }
+        ],
+        "certifications": [
+          "TensorFlow Developer Certificate (2022)"
+        ],
+        "projects": [
+          {
+            "name": "FinCheck",
+            "tech_stack": [
+              "NLP"
+            ],
+            "description": "An NLP-based sentiment analysis tool that parses financial news articles and outputs stock trend scores."
+          },
+          {
+            "name": "HousePriceNet",
+            "tech_stack": [
+              "TensorFlow",
+              "Deep Neural Network"
+            ],
+            "description": "A deep neural network built in TensorFlow to estimate property values based on demographic and historical sales data."
+          }
+        ]
+      },
+      "anonymized_profile": {
+        "personal_info": {
+          "name": "Candidate #4DB81",
+          "email": "[HIDDEN FOR BIAS-FREE SCREENING]",
+          "phone": "[HIDDEN FOR BIAS-FREE SCREENING]",
+          "location": "[HIDDEN FOR BIAS-FREE SCREENING]"
+        },
+        "skills": [
+          "Python",
+          "R",
+          "SQL",
+          "MATLAB",
+          "Pandas",
+          "NumPy",
+          "Scikit-learn",
+          "PyTorch",
+          "TensorFlow",
+          "SciPy",
+          "NLTK",
+          "Tableau",
+          "Matplotlib",
+          "Seaborn",
+          "Git",
+          "Docker",
+          "Apache Spark",
+          "PostgreSQL"
+        ],
+        "experience": [
+          {
+            "role": "Data Scientist",
+            "company": "Alpha Analytics Corp",
+            "duration": "2023 - Present",
+            "description": "Developed and deployed a customer churn prediction model using Random Forests and Gradient Boosting in PyTorch, reducing churn by 12%.\nBuilt data processing pipelines in Python/Pandas that cleaned and aggregated over 10M rows of raw transaction data daily.\nDesigned A/B testing frameworks for UI changes, analyzing user engagement metrics with custom statistics models.\nCollaborated with database engineers to optimize SQL query speeds, reducing data extraction times by 40%."
+          },
+          {
+            "role": "Junior Data Analyst",
+            "company": "InfoTech Systems",
+            "duration": "2021 - 2023",
+            "description": "Prepared daily and weekly operational performance dashboards in Tableau for executive leadership.\nConducted exploratory data analysis (EDA) to uncover trends in client usage patterns.\nAutomated report generation using custom Python scripts and cron jobs, saving the team 5 hours per week."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science",
+            "institution": "University of San Francisco",
+            "year": "2021"
+          },
+          {
+            "degree": "Bachelor of Science in Statistics",
+            "institution": "University of California, Davis",
+            "year": "2019"
+          }
+        ],
+        "certifications": [
+          "TensorFlow Developer Certificate (2022)"
+        ],
+        "projects": [
+          {
+            "name": "FinCheck",
+            "tech_stack": [
+              "NLP"
+            ],
+            "description": "An NLP-based sentiment analysis tool that parses financial news articles and outputs stock trend scores."
+          },
+          {
+            "name": "HousePriceNet",
+            "tech_stack": [
+              "TensorFlow",
+              "Deep Neural Network"
+            ],
+            "description": "A deep neural network built in TensorFlow to estimate property values based on demographic and historical sales data."
+          }
+        ]
+      }
+    },
+    "3badd472-b9e4-43eb-afe6-16a8f5126082": {
+      "id": "3badd472-b9e4-43eb-afe6-16a8f5126082",
+      "filename": "alice_fullstack.txt",
+      "pdf_path": "C:\\Users\\aishw\\.gemini\\antigravity\\scratch\\smart-resume-ranker\\backend\\uploads\\3badd472-b9e4-43eb-afe6-16a8f5126082.pdf",
+      "parsed_data": {
+        "personal_info": {
+          "name": "Carol Jenkins",
+          "email": "carol.jenkins@talentpool.org",
+          "phone": "+1 (415) 555-0122",
+          "location": "San Francisco, CA"
+        },
+        "skills": [
+          "Product Management",
+          "Roadmap Definition",
+          "Agile/Scrum",
+          "SQL",
+          "Jira",
+          "Confluence",
+          "A/B Testing",
+          "Google Analytics",
+          "User Research"
+        ],
+        "experience": [
+          {
+            "role": "Senior Product Manager",
+            "company": "InnovateTech Labs",
+            "duration": "2022 - Present",
+            "description": "Defined product roadmap and led development of cloud analytics dashboards. Coordinated sprints with 8 frontend and backend engineers, increasing release velocity by 25%. Directed user research sessions and A/B testing campaigns, boosting activation rates by 18%."
+          },
+          {
+            "role": "Product Manager",
+            "company": "GrowthLoop Studio",
+            "duration": "2020 - 2022",
+            "description": "Managed user onboarding features and optimization experiments. Authored technical product specifications and SQL analytics pipelines to track funnel metrics."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Business & Computer Science",
+            "institution": "Stanford University",
+            "year": "2020"
+          }
+        ],
+        "certifications": [
+          "Certified Scrum Product Owner (CSPO)"
+        ],
+        "projects": [
+          {
+            "name": "OnboardFlow",
+            "tech_stack": [
+              "SQL",
+              "Mixpanel",
+              "Optimizely"
+            ],
+            "description": "Redesigned registration flow leading to 12% improvement in user activation."
+          }
+        ]
+      },
+      "anonymized_profile": {
+        "personal_info": {
+          "name": "Candidate #3BADD",
+          "email": "[HIDDEN FOR BIAS-FREE SCREENING]",
+          "phone": "[HIDDEN FOR BIAS-FREE SCREENING]",
+          "location": "[HIDDEN FOR BIAS-FREE SCREENING]"
+        },
+        "skills": [
+          "Product Management",
+          "Roadmap Definition",
+          "Agile/Scrum",
+          "SQL",
+          "Jira",
+          "Confluence",
+          "A/B Testing",
+          "Google Analytics",
+          "User Research"
+        ],
+        "experience": [
+          {
+            "role": "Senior Product Manager",
+            "company": "InnovateTech Labs",
+            "duration": "2022 - Present",
+            "description": "Defined product roadmap and led development of cloud analytics dashboards. Coordinated sprints with 8 frontend and backend engineers, increasing release velocity by 25%. Directed user research sessions and A/B testing campaigns, boosting activation rates by 18%."
+          },
+          {
+            "role": "Product Manager",
+            "company": "GrowthLoop Studio",
+            "duration": "2020 - 2022",
+            "description": "Managed user onboarding features and optimization experiments. Authored technical product specifications and SQL analytics pipelines to track funnel metrics."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Business & Computer Science",
+            "institution": "Stanford University",
+            "year": "2020"
+          }
+        ],
+        "certifications": [
+          "Certified Scrum Product Owner (CSPO)"
+        ],
+        "projects": [
+          {
+            "name": "OnboardFlow",
+            "tech_stack": [
+              "SQL",
+              "Mixpanel",
+              "Optimizely"
+            ],
+            "description": "Redesigned registration flow leading to 12% improvement in user activation."
+          }
+        ]
+      }
+    },
+    "6127f5b7-c801-492d-8b15-84357708e9f5": {
+      "id": "6127f5b7-c801-492d-8b15-84357708e9f5",
+      "filename": "bob_datascientist.txt",
+      "pdf_path": "C:\\Users\\aishw\\.gemini\\antigravity\\scratch\\smart-resume-ranker\\backend\\uploads\\6127f5b7-c801-492d-8b15-84357708e9f5.pdf",
+      "parsed_data": {
+        "personal_info": {
+          "name": "Bob Miller",
+          "email": "bob.miller@developerhub.net",
+          "phone": "+1 (512) 555-0148",
+          "location": "Austin, TX"
+        },
+        "skills": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "SQL",
+          "PostgreSQL",
+          "Docker",
+          "AWS",
+          "Git",
+          "REST APIs"
+        ],
+        "experience": [
+          {
+            "role": "Backend Software Engineer",
+            "company": "CoreSystems Inc.",
+            "duration": "2021 - Present",
+            "description": "Architected microservices using Python and FastAPI, handling 10k+ requests per minute. Structured database schemas in PostgreSQL, reducing query latency by 40% through indexing. Set up dockerized pipelines for AWS local builds."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Engineering in CS",
+            "institution": "University of Texas, Austin",
+            "year": "2021"
+          }
+        ],
+        "certifications": [
+          "AWS Certified Cloud Practitioner"
+        ],
+        "projects": [
+          {
+            "name": "FastStore",
+            "tech_stack": [
+              "FastAPI",
+              "Redis",
+              "Docker"
+            ],
+            "description": "Microservice template for shopping cart items validation."
+          }
+        ]
+      },
+      "anonymized_profile": {
+        "personal_info": {
+          "name": "Candidate #6127F",
+          "email": "[HIDDEN FOR BIAS-FREE SCREENING]",
+          "phone": "[HIDDEN FOR BIAS-FREE SCREENING]",
+          "location": "[HIDDEN FOR BIAS-FREE SCREENING]"
+        },
+        "skills": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "SQL",
+          "PostgreSQL",
+          "Docker",
+          "AWS",
+          "Git",
+          "REST APIs"
+        ],
+        "experience": [
+          {
+            "role": "Backend Software Engineer",
+            "company": "CoreSystems Inc.",
+            "duration": "2021 - Present",
+            "description": "Architected microservices using Python and FastAPI, handling 10k+ requests per minute. Structured database schemas in PostgreSQL, reducing query latency by 40% through indexing. Set up dockerized pipelines for AWS local builds."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Engineering in CS",
+            "institution": "University of Texas, Austin",
+            "year": "2021"
+          }
+        ],
+        "certifications": [
+          "AWS Certified Cloud Practitioner"
+        ],
+        "projects": [
+          {
+            "name": "FastStore",
+            "tech_stack": [
+              "FastAPI",
+              "Redis",
+              "Docker"
+            ],
+            "description": "Microservice template for shopping cart items validation."
+          }
+        ]
+      }
+    },
+    "e9e2040a-359b-4eee-ac71-7769d1918b7f": {
+      "id": "e9e2040a-359b-4eee-ac71-7769d1918b7f",
+      "filename": "carol_productmanager.txt",
+      "pdf_path": "C:\\Users\\aishw\\.gemini\\antigravity\\scratch\\smart-resume-ranker\\backend\\uploads\\e9e2040a-359b-4eee-ac71-7769d1918b7f.pdf",
+      "parsed_data": {
+        "personal_info": {
+          "name": "Carol Jenkins",
+          "email": "carol.jenkins@talentpool.org",
+          "phone": "+1 (415) 555-0122",
+          "location": "San Francisco, CA"
+        },
+        "skills": [
+          "Product Management",
+          "Roadmap Definition",
+          "Agile/Scrum",
+          "SQL",
+          "Jira",
+          "Confluence",
+          "A/B Testing",
+          "Google Analytics",
+          "User Research"
+        ],
+        "experience": [
+          {
+            "role": "Senior Product Manager",
+            "company": "InnovateTech Labs",
+            "duration": "2022 - Present",
+            "description": "Defined product roadmap and led development of cloud analytics dashboards. Coordinated sprints with 8 frontend and backend engineers, increasing release velocity by 25%. Directed user research sessions and A/B testing campaigns, boosting activation rates by 18%."
+          },
+          {
+            "role": "Product Manager",
+            "company": "GrowthLoop Studio",
+            "duration": "2020 - 2022",
+            "description": "Managed user onboarding features and optimization experiments. Authored technical product specifications and SQL analytics pipelines to track funnel metrics."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Business & Computer Science",
+            "institution": "Stanford University",
+            "year": "2020"
+          }
+        ],
+        "certifications": [
+          "Certified Scrum Product Owner (CSPO)"
+        ],
+        "projects": [
+          {
+            "name": "OnboardFlow",
+            "tech_stack": [
+              "SQL",
+              "Mixpanel",
+              "Optimizely"
+            ],
+            "description": "Redesigned registration flow leading to 12% improvement in user activation."
+          }
+        ]
+      },
+      "anonymized_profile": {
+        "personal_info": {
+          "name": "Candidate #E9E20",
+          "email": "[HIDDEN FOR BIAS-FREE SCREENING]",
+          "phone": "[HIDDEN FOR BIAS-FREE SCREENING]",
+          "location": "[HIDDEN FOR BIAS-FREE SCREENING]"
+        },
+        "skills": [
+          "Product Management",
+          "Roadmap Definition",
+          "Agile/Scrum",
+          "SQL",
+          "Jira",
+          "Confluence",
+          "A/B Testing",
+          "Google Analytics",
+          "User Research"
+        ],
+        "experience": [
+          {
+            "role": "Senior Product Manager",
+            "company": "InnovateTech Labs",
+            "duration": "2022 - Present",
+            "description": "Defined product roadmap and led development of cloud analytics dashboards. Coordinated sprints with 8 frontend and backend engineers, increasing release velocity by 25%. Directed user research sessions and A/B testing campaigns, boosting activation rates by 18%."
+          },
+          {
+            "role": "Product Manager",
+            "company": "GrowthLoop Studio",
+            "duration": "2020 - 2022",
+            "description": "Managed user onboarding features and optimization experiments. Authored technical product specifications and SQL analytics pipelines to track funnel metrics."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Business & Computer Science",
+            "institution": "Stanford University",
+            "year": "2020"
+          }
+        ],
+        "certifications": [
+          "Certified Scrum Product Owner (CSPO)"
+        ],
+        "projects": [
+          {
+            "name": "OnboardFlow",
+            "tech_stack": [
+              "SQL",
+              "Mixpanel",
+              "Optimizely"
+            ],
+            "description": "Redesigned registration flow leading to 12% improvement in user activation."
+          }
+        ]
+      }
+    },
+    "3b2bcba8-1ca1-4bee-a7ae-9bcee86f8317": {
+      "id": "3b2bcba8-1ca1-4bee-a7ae-9bcee86f8317",
+      "filename": "alice_fullstack.txt",
+      "pdf_path": "C:\\Users\\aishw\\.gemini\\antigravity\\scratch\\smart-resume-ranker\\backend\\uploads\\3b2bcba8-1ca1-4bee-a7ae-9bcee86f8317.pdf",
+      "parsed_data": {
+        "personal_info": {
+          "name": "Carol Jenkins",
+          "email": "carol.jenkins@talentpool.org",
+          "phone": "+1 (415) 555-0122",
+          "location": "San Francisco, CA"
+        },
+        "skills": [
+          "Product Management",
+          "Roadmap Definition",
+          "Agile/Scrum",
+          "SQL",
+          "Jira",
+          "Confluence",
+          "A/B Testing",
+          "Google Analytics",
+          "User Research"
+        ],
+        "experience": [
+          {
+            "role": "Senior Product Manager",
+            "company": "InnovateTech Labs",
+            "duration": "2022 - Present",
+            "description": "Defined product roadmap and led development of cloud analytics dashboards. Coordinated sprints with 8 frontend and backend engineers, increasing release velocity by 25%. Directed user research sessions and A/B testing campaigns, boosting activation rates by 18%."
+          },
+          {
+            "role": "Product Manager",
+            "company": "GrowthLoop Studio",
+            "duration": "2020 - 2022",
+            "description": "Managed user onboarding features and optimization experiments. Authored technical product specifications and SQL analytics pipelines to track funnel metrics."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Business & Computer Science",
+            "institution": "Stanford University",
+            "year": "2020"
+          }
+        ],
+        "certifications": [
+          "Certified Scrum Product Owner (CSPO)"
+        ],
+        "projects": [
+          {
+            "name": "OnboardFlow",
+            "tech_stack": [
+              "SQL",
+              "Mixpanel",
+              "Optimizely"
+            ],
+            "description": "Redesigned registration flow leading to 12% improvement in user activation."
+          }
+        ]
+      },
+      "anonymized_profile": {
+        "personal_info": {
+          "name": "Candidate #3B2BC",
+          "email": "[HIDDEN FOR BIAS-FREE SCREENING]",
+          "phone": "[HIDDEN FOR BIAS-FREE SCREENING]",
+          "location": "[HIDDEN FOR BIAS-FREE SCREENING]"
+        },
+        "skills": [
+          "Product Management",
+          "Roadmap Definition",
+          "Agile/Scrum",
+          "SQL",
+          "Jira",
+          "Confluence",
+          "A/B Testing",
+          "Google Analytics",
+          "User Research"
+        ],
+        "experience": [
+          {
+            "role": "Senior Product Manager",
+            "company": "InnovateTech Labs",
+            "duration": "2022 - Present",
+            "description": "Defined product roadmap and led development of cloud analytics dashboards. Coordinated sprints with 8 frontend and backend engineers, increasing release velocity by 25%. Directed user research sessions and A/B testing campaigns, boosting activation rates by 18%."
+          },
+          {
+            "role": "Product Manager",
+            "company": "GrowthLoop Studio",
+            "duration": "2020 - 2022",
+            "description": "Managed user onboarding features and optimization experiments. Authored technical product specifications and SQL analytics pipelines to track funnel metrics."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Business & Computer Science",
+            "institution": "Stanford University",
+            "year": "2020"
+          }
+        ],
+        "certifications": [
+          "Certified Scrum Product Owner (CSPO)"
+        ],
+        "projects": [
+          {
+            "name": "OnboardFlow",
+            "tech_stack": [
+              "SQL",
+              "Mixpanel",
+              "Optimizely"
+            ],
+            "description": "Redesigned registration flow leading to 12% improvement in user activation."
+          }
+        ]
+      }
+    },
+    "5d3e3205-2fda-4f2d-bd61-564ed5e8ee76": {
+      "id": "5d3e3205-2fda-4f2d-bd61-564ed5e8ee76",
+      "filename": "carol_productmanager.txt",
+      "pdf_path": "C:\\Users\\aishw\\.gemini\\antigravity\\scratch\\smart-resume-ranker\\backend\\uploads\\5d3e3205-2fda-4f2d-bd61-564ed5e8ee76.pdf",
+      "parsed_data": {
+        "personal_info": {
+          "name": "Carol Jenkins",
+          "email": "carol.jenkins@talentpool.org",
+          "phone": "+1 (415) 555-0122",
+          "location": "San Francisco, CA"
+        },
+        "skills": [
+          "Product Management",
+          "Roadmap Definition",
+          "Agile/Scrum",
+          "SQL",
+          "Jira",
+          "Confluence",
+          "A/B Testing",
+          "Google Analytics",
+          "User Research"
+        ],
+        "experience": [
+          {
+            "role": "Senior Product Manager",
+            "company": "InnovateTech Labs",
+            "duration": "2022 - Present",
+            "description": "Defined product roadmap and led development of cloud analytics dashboards. Coordinated sprints with 8 frontend and backend engineers, increasing release velocity by 25%. Directed user research sessions and A/B testing campaigns, boosting activation rates by 18%."
+          },
+          {
+            "role": "Product Manager",
+            "company": "GrowthLoop Studio",
+            "duration": "2020 - 2022",
+            "description": "Managed user onboarding features and optimization experiments. Authored technical product specifications and SQL analytics pipelines to track funnel metrics."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Business & Computer Science",
+            "institution": "Stanford University",
+            "year": "2020"
+          }
+        ],
+        "certifications": [
+          "Certified Scrum Product Owner (CSPO)"
+        ],
+        "projects": [
+          {
+            "name": "OnboardFlow",
+            "tech_stack": [
+              "SQL",
+              "Mixpanel",
+              "Optimizely"
+            ],
+            "description": "Redesigned registration flow leading to 12% improvement in user activation."
+          }
+        ]
+      },
+      "anonymized_profile": {
+        "personal_info": {
+          "name": "Candidate #5D3E3",
+          "email": "[HIDDEN FOR BIAS-FREE SCREENING]",
+          "phone": "[HIDDEN FOR BIAS-FREE SCREENING]",
+          "location": "[HIDDEN FOR BIAS-FREE SCREENING]"
+        },
+        "skills": [
+          "Product Management",
+          "Roadmap Definition",
+          "Agile/Scrum",
+          "SQL",
+          "Jira",
+          "Confluence",
+          "A/B Testing",
+          "Google Analytics",
+          "User Research"
+        ],
+        "experience": [
+          {
+            "role": "Senior Product Manager",
+            "company": "InnovateTech Labs",
+            "duration": "2022 - Present",
+            "description": "Defined product roadmap and led development of cloud analytics dashboards. Coordinated sprints with 8 frontend and backend engineers, increasing release velocity by 25%. Directed user research sessions and A/B testing campaigns, boosting activation rates by 18%."
+          },
+          {
+            "role": "Product Manager",
+            "company": "GrowthLoop Studio",
+            "duration": "2020 - 2022",
+            "description": "Managed user onboarding features and optimization experiments. Authored technical product specifications and SQL analytics pipelines to track funnel metrics."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Business & Computer Science",
+            "institution": "Stanford University",
+            "year": "2020"
+          }
+        ],
+        "certifications": [
+          "Certified Scrum Product Owner (CSPO)"
+        ],
+        "projects": [
+          {
+            "name": "OnboardFlow",
+            "tech_stack": [
+              "SQL",
+              "Mixpanel",
+              "Optimizely"
+            ],
+            "description": "Redesigned registration flow leading to 12% improvement in user activation."
+          }
+        ]
+      }
+    },
+    "30c312c4-994d-4d8f-a661-fbbe1bf87abd": {
+      "id": "30c312c4-994d-4d8f-a661-fbbe1bf87abd",
+      "filename": "alice_fullstack.txt",
+      "pdf_path": "C:\\Users\\aishw\\.gemini\\antigravity\\scratch\\smart-resume-ranker\\backend\\uploads\\30c312c4-994d-4d8f-a661-fbbe1bf87abd.pdf",
+      "parsed_data": {
+        "personal_info": {
+          "name": "Carol Jenkins",
+          "email": "carol.jenkins@talentpool.org",
+          "phone": "+1 (415) 555-0122",
+          "location": "San Francisco, CA"
+        },
+        "skills": [
+          "Product Management",
+          "Roadmap Definition",
+          "Agile/Scrum",
+          "SQL",
+          "Jira",
+          "Confluence",
+          "A/B Testing",
+          "Google Analytics",
+          "User Research"
+        ],
+        "experience": [
+          {
+            "role": "Senior Product Manager",
+            "company": "InnovateTech Labs",
+            "duration": "2022 - Present",
+            "description": "Defined product roadmap and led development of cloud analytics dashboards. Coordinated sprints with 8 frontend and backend engineers, increasing release velocity by 25%. Directed user research sessions and A/B testing campaigns, boosting activation rates by 18%."
+          },
+          {
+            "role": "Product Manager",
+            "company": "GrowthLoop Studio",
+            "duration": "2020 - 2022",
+            "description": "Managed user onboarding features and optimization experiments. Authored technical product specifications and SQL analytics pipelines to track funnel metrics."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Business & Computer Science",
+            "institution": "Stanford University",
+            "year": "2020"
+          }
+        ],
+        "certifications": [
+          "Certified Scrum Product Owner (CSPO)"
+        ],
+        "projects": [
+          {
+            "name": "OnboardFlow",
+            "tech_stack": [
+              "SQL",
+              "Mixpanel",
+              "Optimizely"
+            ],
+            "description": "Redesigned registration flow leading to 12% improvement in user activation."
+          }
+        ]
+      },
+      "anonymized_profile": {
+        "personal_info": {
+          "name": "Candidate #30C31",
+          "email": "[HIDDEN FOR BIAS-FREE SCREENING]",
+          "phone": "[HIDDEN FOR BIAS-FREE SCREENING]",
+          "location": "[HIDDEN FOR BIAS-FREE SCREENING]"
+        },
+        "skills": [
+          "Product Management",
+          "Roadmap Definition",
+          "Agile/Scrum",
+          "SQL",
+          "Jira",
+          "Confluence",
+          "A/B Testing",
+          "Google Analytics",
+          "User Research"
+        ],
+        "experience": [
+          {
+            "role": "Senior Product Manager",
+            "company": "InnovateTech Labs",
+            "duration": "2022 - Present",
+            "description": "Defined product roadmap and led development of cloud analytics dashboards. Coordinated sprints with 8 frontend and backend engineers, increasing release velocity by 25%. Directed user research sessions and A/B testing campaigns, boosting activation rates by 18%."
+          },
+          {
+            "role": "Product Manager",
+            "company": "GrowthLoop Studio",
+            "duration": "2020 - 2022",
+            "description": "Managed user onboarding features and optimization experiments. Authored technical product specifications and SQL analytics pipelines to track funnel metrics."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Business & Computer Science",
+            "institution": "Stanford University",
+            "year": "2020"
+          }
+        ],
+        "certifications": [
+          "Certified Scrum Product Owner (CSPO)"
+        ],
+        "projects": [
+          {
+            "name": "OnboardFlow",
+            "tech_stack": [
+              "SQL",
+              "Mixpanel",
+              "Optimizely"
+            ],
+            "description": "Redesigned registration flow leading to 12% improvement in user activation."
+          }
+        ]
+      }
+    },
+    "5ba4df8b-8696-48a6-ab69-2a05e0f2473b": {
+      "id": "5ba4df8b-8696-48a6-ab69-2a05e0f2473b",
+      "filename": "alice_fullstack.txt",
+      "pdf_path": "C:\\Users\\aishw\\.gemini\\antigravity\\scratch\\smart-resume-ranker\\backend\\uploads\\5ba4df8b-8696-48a6-ab69-2a05e0f2473b.pdf",
+      "parsed_data": {
+        "personal_info": {
+          "name": "Carol Jenkins",
+          "email": "carol.jenkins@talentpool.org",
+          "phone": "+1 (415) 555-0122",
+          "location": "San Francisco, CA"
+        },
+        "skills": [
+          "Product Management",
+          "Roadmap Definition",
+          "Agile/Scrum",
+          "SQL",
+          "Jira",
+          "Confluence",
+          "A/B Testing",
+          "Google Analytics",
+          "User Research"
+        ],
+        "experience": [
+          {
+            "role": "Senior Product Manager",
+            "company": "InnovateTech Labs",
+            "duration": "2022 - Present",
+            "description": "Defined product roadmap and led development of cloud analytics dashboards. Coordinated sprints with 8 frontend and backend engineers, increasing release velocity by 25%. Directed user research sessions and A/B testing campaigns, boosting activation rates by 18%."
+          },
+          {
+            "role": "Product Manager",
+            "company": "GrowthLoop Studio",
+            "duration": "2020 - 2022",
+            "description": "Managed user onboarding features and optimization experiments. Authored technical product specifications and SQL analytics pipelines to track funnel metrics."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Business & Computer Science",
+            "institution": "Stanford University",
+            "year": "2020"
+          }
+        ],
+        "certifications": [
+          "Certified Scrum Product Owner (CSPO)"
+        ],
+        "projects": [
+          {
+            "name": "OnboardFlow",
+            "tech_stack": [
+              "SQL",
+              "Mixpanel",
+              "Optimizely"
+            ],
+            "description": "Redesigned registration flow leading to 12% improvement in user activation."
+          }
+        ]
+      },
+      "anonymized_profile": {
+        "personal_info": {
+          "name": "Candidate #5BA4D",
+          "email": "[HIDDEN FOR BIAS-FREE SCREENING]",
+          "phone": "[HIDDEN FOR BIAS-FREE SCREENING]",
+          "location": "[HIDDEN FOR BIAS-FREE SCREENING]"
+        },
+        "skills": [
+          "Product Management",
+          "Roadmap Definition",
+          "Agile/Scrum",
+          "SQL",
+          "Jira",
+          "Confluence",
+          "A/B Testing",
+          "Google Analytics",
+          "User Research"
+        ],
+        "experience": [
+          {
+            "role": "Senior Product Manager",
+            "company": "InnovateTech Labs",
+            "duration": "2022 - Present",
+            "description": "Defined product roadmap and led development of cloud analytics dashboards. Coordinated sprints with 8 frontend and backend engineers, increasing release velocity by 25%. Directed user research sessions and A/B testing campaigns, boosting activation rates by 18%."
+          },
+          {
+            "role": "Product Manager",
+            "company": "GrowthLoop Studio",
+            "duration": "2020 - 2022",
+            "description": "Managed user onboarding features and optimization experiments. Authored technical product specifications and SQL analytics pipelines to track funnel metrics."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Business & Computer Science",
+            "institution": "Stanford University",
+            "year": "2020"
+          }
+        ],
+        "certifications": [
+          "Certified Scrum Product Owner (CSPO)"
+        ],
+        "projects": [
+          {
+            "name": "OnboardFlow",
+            "tech_stack": [
+              "SQL",
+              "Mixpanel",
+              "Optimizely"
+            ],
+            "description": "Redesigned registration flow leading to 12% improvement in user activation."
+          }
+        ]
+      }
+    }
+  },
+  "jobs": {
+    "87a59986-90e5-4c7e-b553-4d0beeb79621": {
+      "id": "87a59986-90e5-4c7e-b553-4d0beeb79621",
+      "title": "Frontend Engineer",
+      "skills": "React, Node.js, Python",
+      "experience": "3+ Years",
+      "education": "Bachelor's In CS",
+      "description": "Collaborate with stakeholders to gather and refine business requirements for frontend modules.\n\n2. Conduct feasibility studies on technologies such as ReactJS, NextJS, GraphQL, and Module Federation.\n\n3. Propose suitable technology stacks (frontend, databases, APIs) and microservices aligned with business and technical needs\n\n4. Develop proof-of-concepts (PoCs) for micro-frontend architectures to validate modular deployment strategies.\n\n5. Coordinate with vendors and internal teams to finalize technical feasibility and scope"
+    },
+    "455cc781-acc5-4f84-a869-3bd2107b7240": {
+      "id": "455cc781-acc5-4f84-a869-3bd2107b7240",
+      "title": "Data Scientist",
+      "skills": "Python, SQL, PyTorch, TensorFlow, Scikit-learn, Machine Learning, NLP, Data Analytics",
+      "experience": "2+ years",
+      "education": "Master's or Bachelor's in Data Science, Statistics, or Computer Science",
+      "description": "Develop predictive models, design experimentation frameworks, and analyze complex unstructured datasets to drive product insights. Experience with LLMs is a plus."
+    },
+    "a093fbaa-18e5-4d1d-9aa9-65a1d33474ec": {
+      "id": "a093fbaa-18e5-4d1d-9aa9-65a1d33474ec",
+      "title": "Technical Product Manager",
+      "skills": "Product Strategy, Roadmap Definition, Agile/Scrum, SQL, Analytics, User Research",
+      "experience": "4+ years",
+      "education": "Bachelor's in Business, Engineering, or Computer Science",
+      "description": "Drive product requirements definition, manage sprint cycles, and collaborate with engineering to build cloud-native enterprise platforms."
+    },
+    "53d523b0-dae8-4ee9-91ac-da22eaef0dcb": {
+      "id": "53d523b0-dae8-4ee9-91ac-da22eaef0dcb",
+      "title": "AI Data Scientist",
+      "skills": "Python, PyTorch, LLMs, NLP, SQL, Pandas, Scikit-Learn",
+      "experience": "3+ years",
+      "education": "Master's or PhD in CS, Statistics, or Math",
+      "description": "Develop predictive models, design experimentation frameworks, and analyze complex unstructured datasets to drive product insights. Experience with LLMs is a plus."
+    }
+  },
+  "evaluations": {
+    "87a59986-90e5-4c7e-b553-4d0beeb79621_3654ec83-c850-49c0-a21b-31137d890d1e": {
+      "overall_score": 88,
+      "scores": {
+        "skills": 90,
+        "experience": 75,
+        "education": 100,
+        "certifications": 90,
+        "projects": 95
+      },
+      "explanation": "Alice Smith is a strong candidate for the Frontend Engineer position, demonstrating excellent alignment with the required technical skills and experience duration. She possesses proficiency in all core technologies (React, Node.js, Python) and has hands-on experience in building and migrating complex systems using modern architectures, including microservices and serverless. Her background includes leading development teams, optimizing application performance, and collaborating with product stakeholders. The candidate's educational background is a perfect match, and her AWS certification adds significant value to her full-stack capabilities. Projects further reinforce her practical skills in React, Python, and cloud services.",
+      "missing_skills": [
+        "NextJS (specifically for feasibility studies)",
+        "Module Federation (specifically for feasibility studies)"
+      ],
+      "key_strengths": [
+        "Proficiency in all core required technologies (React, Node.js, Python) with relevant experience.",
+        "Demonstrated ability to lead architectural migrations, design scalable APIs, and build microservices.",
+        "Strong educational background (Bachelor's in CS) and relevant cloud certification (AWS).",
+        "Proven experience in collaborating with product managers and designers on functional web applications."
+      ],
+      "reason_for_not_match": "While Alice's resume showcases robust development skills and leadership experience, it does not explicitly detail involvement in a few specific areas mentioned in the job description. There is no explicit mention of conducting 'feasibility studies' specifically for technologies like NextJS or Module Federation, nor developing 'proof-of-concepts (PoCs) for micro-frontend architectures' to validate modular deployment strategies. Additionally, while internal coordination is evident, explicit experience with 'vendor coordination' is not highlighted. These areas represent more advanced architectural and strategic planning aspects that are emphasized in the job description, preventing a perfect score."
+    },
+    "87a59986-90e5-4c7e-b553-4d0beeb79621_0b7bc61f-4b1d-42b2-9155-284d3708e82b": {
+      "overall_score": 15,
+      "scores": {
+        "skills": 0,
+        "experience": 5,
+        "education": 90,
+        "certifications": 0,
+        "projects": 0
+      },
+      "explanation": "The candidate, Carol Jenkins, demonstrates a strong background in Product Management with extensive experience in defining roadmaps, leading development sprints, conducting user research, and optimizing user activation. Her education in Business & Computer Science from Stanford University is a significant asset. However, the job description is for a Frontend Engineer, a role that requires hands-on technical skills in React, Node.js, Python, and experience with frontend architecture, feasibility studies, and PoC development. Carol's resume lacks any direct evidence of these core engineering competencies. Her experience and projects are consistently focused on product strategy, analytics, and coordination rather than actual software development.",
+      "missing_skills": [
+        "React",
+        "Node.js",
+        "Python",
+        "NextJS",
+        "GraphQL",
+        "Module Federation",
+        "Frontend Architecture Design",
+        "Proof-of-Concept (PoC) Development"
+      ],
+      "key_strengths": [
+        "Strong educational background in Business & Computer Science",
+        "Extensive experience in Product Management and roadmap definition",
+        "Proficiency in Agile/Scrum methodologies",
+        "Strong analytical and user research skills"
+      ],
+      "reason_for_not_match": "The primary reason for the low score is the fundamental mismatch between the candidate's professional trajectory and the technical demands of the Frontend Engineer role. The candidate's entire professional history and project work are rooted in Product Management, not hands-on software engineering. There is no evidence of direct experience with required programming languages (React, Node.js, Python), frontend frameworks, or architectural concepts (micro-frontends, GraphQL, Module Federation) that are central to the job description. While the candidate possesses strong soft skills in collaboration and requirements gathering, these are secondary to the core technical development responsibilities of this engineering position."
+    },
+    "87a59986-90e5-4c7e-b553-4d0beeb79621_457d93f4-06bb-45a1-9f6e-17d2a53eecc8": {
+      "overall_score": 6,
+      "scores": {
+        "skills": 5,
+        "experience": 5,
+        "education": 15,
+        "certifications": 0,
+        "projects": 5
+      },
+      "explanation": "Carol Williams has a strong background in Product Management with over 4 years of experience, demonstrating excellent skills in stakeholder management, requirement definition, and product lifecycle ownership. She has experience with Agile/Scrum, analytics tools, and SQL. However, her resume shows a significant mismatch for a Frontend Engineer role, lacking direct hands-on experience and proficiency in core frontend technologies like React and Node.js. Her technical education is in Mechanical Engineering, not the preferred Computer Science, and her projects do not showcase relevant frontend engineering capabilities.",
+      "missing_skills": [
+        "React",
+        "Node.js",
+        "NextJS",
+        "GraphQL",
+        "Module Federation",
+        "Frontend Development (general)"
+      ],
+      "key_strengths": [
+        "Strong Product Management background",
+        "Excellent Stakeholder Management and Communication",
+        "Experience with Agile/Scrum methodologies",
+        "Understanding of System Architecture and APIs"
+      ],
+      "reason_for_not_match": "The primary reason for not matching is the fundamental difference between the candidate's career trajectory as a Product Manager and the highly technical demands of a Frontend Engineer. While the candidate meets the experience duration requirement, her experience is not in a hands-on coding or frontend development capacity. Critical technical skills such as React, Node.js, NextJS, GraphQL, and Module Federation are absent from her skill set and professional experience. Her education is in Mechanical Engineering rather than the preferred Computer Science, and her listed projects do not demonstrate proficiency in building frontend applications or conducting technical feasibility studies relevant to a software engineering role."
+    },
+    "87a59986-90e5-4c7e-b553-4d0beeb79621_df09bad5-d8e3-49d3-897f-7df6b3f47775": {
+      "overall_score": 10,
+      "scores": {
+        "skills": 10,
+        "experience": 5,
+        "education": 30,
+        "certifications": 0,
+        "projects": 0
+      },
+      "explanation": "Carol Williams presents as a highly accomplished and experienced Product Manager with a strong background in product strategy, roadmap definition, and stakeholder management. While these skills are valuable in a general tech environment, her resume demonstrates a significant lack of direct hands-on experience and proficiency in core frontend engineering technologies such as React, Node.js, NextJS, and GraphQL, which are essential for this Frontend Engineer role. Her education and projects further confirm a profile geared towards product management and design prototyping rather than software development.",
+      "missing_skills": [
+        "React",
+        "Node.js",
+        "NextJS",
+        "GraphQL",
+        "Module Federation",
+        "Hands-on Frontend Development"
+      ],
+      "key_strengths": [
+        "Strong Product Management and Strategy",
+        "Excellent Stakeholder Management and Communication",
+        "Experience with Agile/Scrum Methodologies",
+        "Analytical Skills (Mixpanel, SQL, user research)"
+      ],
+      "reason_for_not_match": "The candidate's profile is fundamentally misaligned with the requirements of a Frontend Engineer role. The primary reason for the low score is the complete absence of demonstrated hands-on frontend development experience, particularly with critical technologies like React and Node.js. All listed work experience is in Product Management, not engineering. Her educational background is in Mechanical Engineering, not the preferred Computer Science, and her personal projects do not showcase any relevant frontend coding skills. While she possesses strong product and organizational skills, these do not compensate for the lack of core technical engineering expertise required for this specific role."
+    },
+    "87a59986-90e5-4c7e-b553-4d0beeb79621_4db8174c-a8aa-4697-a74c-f6c071cfd53f": {
+      "overall_score": 14,
+      "scores": {
+        "skills": 15,
+        "experience": 5,
+        "education": 50,
+        "certifications": 0,
+        "projects": 0
+      },
+      "explanation": "The candidate, Bob Johnson, presents a strong background in data science and analytics, holding a Master of Science in Data Science and possessing extensive experience with Python, machine learning frameworks (PyTorch, TensorFlow), and data manipulation tools. They meet the general requirement for 3+ years of experience. However, the Frontend Engineer role specifically requires expertise in React and Node.js, alongside frontend development practices, which are entirely absent from Bob's resume. Their experience, skills, and projects are overwhelmingly oriented towards data analysis, machine learning model development, and backend data processing, leading to a significant mismatch with the job's core technical requirements and responsibilities.",
+      "missing_skills": [
+        "React",
+        "Node.js",
+        "NextJS",
+        "GraphQL",
+        "Module Federation"
+      ],
+      "key_strengths": [
+        "Strong Python proficiency",
+        "Extensive experience in data analysis and machine learning",
+        "Meets general experience duration (3+ years)",
+        "Strong analytical and problem-solving skills"
+      ],
+      "reason_for_not_match": "The primary reason for the low score is the fundamental mismatch between the candidate's career trajectory and the requirements of a Frontend Engineer position. The job description explicitly calls for skills in React and Node.js for frontend development, alongside experience with micro-frontend architectures and UI-focused tasks. Bob Johnson's resume, while impressive in the data science domain, demonstrates no experience or skills in these critical frontend technologies or responsibilities. His professional roles as a Data Scientist and Junior Data Analyst, along with all listed projects, are rooted in data processing, statistical modeling, and machine learning, with no indication of frontend development, UI/UX design, or collaboration on frontend modules as outlined in the job description."
+    },
+    "87a59986-90e5-4c7e-b553-4d0beeb79621_3badd472-b9e4-43eb-afe6-16a8f5126082": {
+      "overall_score": 14,
+      "scores": {
+        "skills": 0,
+        "experience": 0,
+        "education": 90,
+        "certifications": 0,
+        "projects": 0
+      },
+      "explanation": "The candidate, Carol Jenkins, possesses a strong background in product management, evidenced by her professional experience, skills, and certifications. Her education also includes a strong Computer Science component. However, the Frontend Engineer role is highly technical, requiring specific development skills in React, Node.js, and Python, along with experience in building frontend modules and architectures. Carol's resume demonstrates no practical experience or listed skills in these core engineering areas, leading to a very low overall score for this specific technical position. The primary strength is her relevant academic degree.",
+      "missing_skills": [
+        "React",
+        "Node.js",
+        "Python",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "NextJS",
+        "GraphQL",
+        "Module Federation",
+        "Frontend Development"
+      ],
+      "key_strengths": [
+        "Strong academic foundation in Computer Science (part of BS degree)",
+        "Extensive experience in Product Management and agile methodologies",
+        "Proven ability to coordinate with engineering teams to deliver features",
+        "Experience in user research and A/B testing for product optimization"
+      ],
+      "reason_for_not_match": "The fundamental reason for the low score and mismatch is that the candidate's entire professional background, skills, and projects are geared towards Product Management, whereas the job description is for a Frontend Engineer. There is a complete absence of the required technical skills (React, Node.js, Python) and hands-on development experience crucial for this role. While the candidate has relevant general experience (4 years) and a strong education, none of it directly pertains to the technical demands of a Frontend Engineer, such as conducting feasibility studies on specific frontend technologies, developing PoCs for micro-frontend architectures, or proposing technical stacks from a development perspective."
+    },
+    "87a59986-90e5-4c7e-b553-4d0beeb79621_6127f5b7-c801-492d-8b15-84357708e9f5": {
+      "overall_score": 28,
+      "scores": {
+        "skills": 20,
+        "experience": 10,
+        "education": 100,
+        "certifications": 20,
+        "projects": 10
+      },
+      "explanation": "Bob Miller is a Backend Software Engineer with approximately 3 years of experience, primarily focused on Python, FastAPI, and microservices. He holds a Bachelor's degree in Computer Science, which aligns perfectly with the education preference. His strengths lie in backend development, database management, and cloud infrastructure with AWS and Docker. However, the Frontend Engineer role explicitly requires strong proficiency in React, Node.js, and related frontend technologies like NextJS, GraphQL, and Module Federation, which are entirely missing from his resume. His experience and projects are strictly backend-oriented, leading to a significant mismatch with the core requirements of this frontend position. While his general engineering background and Python skills are valuable, the lack of specific frontend expertise is a major gap.",
+      "missing_skills": [
+        "React",
+        "Node.js",
+        "NextJS",
+        "GraphQL",
+        "Module Federation",
+        "Frontend architectural patterns",
+        "UI/UX design principles"
+      ],
+      "key_strengths": [
+        "Strong backend development skills with Python, FastAPI, and Django.",
+        "Proficiency in microservice architecture and REST API development.",
+        "Experience with cloud deployments and containerization (AWS, Docker).",
+        "Solid computer science educational background."
+      ],
+      "reason_for_not_match": "The primary reason for not achieving a perfect score is the significant mismatch between the candidate's backend-focused experience and the job's explicit requirement for a Frontend Engineer. The candidate lacks core frontend skills such as React, Node.js (in a frontend context), NextJS, GraphQL, and Module Federation, which are critical for this role. Their professional experience and projects are entirely centered on backend microservices and database management, with no evidence of frontend development, UI/UX collaboration, or understanding of frontend-specific architectural challenges mentioned in the job description (e.g., micro-frontends). While the candidate possesses strong general technical skills, they are not aligned with the specialized frontend requirements of this role."
+    },
+    "87a59986-90e5-4c7e-b553-4d0beeb79621_e9e2040a-359b-4eee-ac71-7769d1918b7f": {
+      "overall_score": 14,
+      "scores": {
+        "skills": 0,
+        "experience": 0,
+        "education": 85,
+        "certifications": 10,
+        "projects": 0
+      },
+      "explanation": "Carol Jenkins presents a strong profile as a Product Manager, demonstrating expertise in product strategy, roadmap definition, agile methodologies, and analytics. However, the Frontend Engineer role requires specific technical skills and hands-on development experience in frontend engineering (React, Node.js, Python), which are not present in Carol's resume. While her education includes a Computer Science component, her professional experience, listed skills, and projects are entirely aligned with product management functions rather than engineering development.",
+      "missing_skills": [
+        "React",
+        "Node.js",
+        "Python",
+        "NextJS",
+        "GraphQL",
+        "Module Federation",
+        "Frontend Development"
+      ],
+      "key_strengths": [
+        "Strong Product Management expertise",
+        "Experience with Agile/Scrum methodologies",
+        "Analytical skills (SQL, A/B testing)",
+        "Relevant Computer Science background in education"
+      ],
+      "reason_for_not_match": "The primary reason for the low score is a fundamental mismatch between the candidate's professional background and the job requirements. Carol Jenkins' resume showcases extensive experience as a Product Manager, while the Frontend Engineer role demands specific hands-on development skills and experience in frontend technologies such as React, Node.js, and Python. The candidate lacks direct engineering experience in building frontend modules, conducting technical feasibility studies on frontend architectures, proposing technology stacks from an engineering standpoint, or developing proof-of-concepts, which are critical components of the job description. Her listed skills, certifications, and project experience are entirely product-focused, demonstrating no direct technical relevance to frontend software engineering."
+    },
+    "87a59986-90e5-4c7e-b553-4d0beeb79621_3b2bcba8-1ca1-4bee-a7ae-9bcee86f8317": {
+      "overall_score": 16,
+      "scores": {
+        "skills": 0,
+        "experience": 5,
+        "education": 90,
+        "certifications": 10,
+        "projects": 0
+      },
+      "explanation": "Carol Jenkins demonstrates a strong background in product management, evidenced by her roles as Product Manager and Senior Product Manager. She has a solid academic foundation with a Bachelor of Science in Business & Computer Science, aligning well with the education preference. Her experience includes coordinating with engineering teams, defining roadmaps, and driving product outcomes. However, the candidate's resume shows a significant mismatch for a Frontend Engineer role, as it entirely lacks the required technical skills and hands-on development experience in technologies like React, Node.js, and Python. Her professional journey and project work are focused on product strategy, user research, and analytics, not software engineering.",
+      "missing_skills": [
+        "React",
+        "Node.js",
+        "Python",
+        "NextJS",
+        "GraphQL",
+        "Module Federation"
+      ],
+      "key_strengths": [
+        "Strong academic background in Computer Science",
+        "Extensive experience in product management and strategy",
+        "Proven ability to coordinate with teams and drive product outcomes",
+        "Expertise in agile methodologies and product lifecycle"
+      ],
+      "reason_for_not_match": "The candidate's profile is that of an experienced Product Manager, not a Frontend Engineer. The primary reason for not being a suitable match is the complete absence of core technical skills and hands-on experience required for frontend development, such as React, Node.js, and Python. The job description specifically requires an engineer who can conduct feasibility studies, propose technology stacks, and develop proof-of-concepts, none of which are demonstrated in the candidate's professional experience or projects. While the candidate has relevant general professional experience (4+ years) and a Computer Science background, the nature of this experience is fundamentally misaligned with the technical demands of a Frontend Engineer position."
+    },
+    "87a59986-90e5-4c7e-b553-4d0beeb79621_5d3e3205-2fda-4f2d-bd61-564ed5e8ee76": {
+      "overall_score": 18,
+      "scores": {
+        "skills": 0,
+        "experience": 0,
+        "education": 90,
+        "certifications": 40,
+        "projects": 0
+      },
+      "explanation": "Carol Jenkins presents a strong resume for a Product Manager role, showcasing extensive experience in product strategy, roadmap definition, user research, and agile methodologies. Her educational background in Business & Computer Science from Stanford University is excellent and aligns well with the academic preference. However, the current job opening is for a Frontend Engineer, a highly technical role requiring specific development skills and hands-on experience in technologies like React, Node.js, and Python. The candidate's skills, professional experience, and projects are almost entirely focused on product management and analytics, leading to a significant mismatch with the technical demands of the engineering position.",
+      "missing_skills": [
+        "React",
+        "Node.js",
+        "Python",
+        "NextJS",
+        "GraphQL",
+        "Module Federation"
+      ],
+      "key_strengths": [
+        "Strong academic background in Computer Science",
+        "Extensive product management experience",
+        "Proficiency in Agile/Scrum methodologies",
+        "Experience with user research and A/B testing"
+      ],
+      "reason_for_not_match": "The primary reason for not matching the Frontend Engineer role is a fundamental misalignment between the candidate's professional background and the job's technical requirements. Carol Jenkins' resume details a career firmly rooted in Product Management, not software engineering. She lacks the explicit technical skills (React, Node.js, Python) and the hands-on development experience (3+ years as a Frontend Engineer) that are critical for this role. Her experience revolves around coordinating engineering teams and defining product strategy, rather than actively developing frontend modules, conducting technical feasibility studies, proposing technology stacks, or building proof-of-concepts for micro-frontend architectures. Her projects also reflect a product/analytics focus, providing no evidence of frontend engineering capabilities."
+    },
+    "87a59986-90e5-4c7e-b553-4d0beeb79621_30c312c4-994d-4d8f-a661-fbbe1bf87abd": {
+      "overall_score": 17,
+      "scores": {
+        "skills": 0,
+        "experience": 5,
+        "education": 95,
+        "certifications": 10,
+        "projects": 0
+      },
+      "explanation": "Carol Jenkins' resume presents a strong profile for a Product Manager, showcasing 4 years of experience in product strategy, roadmap definition, and user experience optimization. Her educational background with a Bachelor of Science in Business & Computer Science from Stanford University is highly commendable and aligns well with the education preference. She also holds a relevant certification in Certified Scrum Product Owner. However, the core requirements for a Frontend Engineer role, specifically hands-on technical skills in React, Node.js, and Python, are entirely absent from her skill set and experience. Her professional experience and projects are focused on product management initiatives, user analytics, and coordination, rather than direct frontend development or architecture design.",
+      "missing_skills": [
+        "React",
+        "Node.js",
+        "Python",
+        "NextJS",
+        "GraphQL",
+        "Module Federation",
+        "Frontend architecture design",
+        "Developing Proof-of-Concepts (PoCs)"
+      ],
+      "key_strengths": [
+        "Strong Product Management background and experience",
+        "Excellent educational foundation (BS in Business & Computer Science from Stanford)",
+        "Proficiency in Agile/Scrum methodologies",
+        "Experience collaborating with engineering teams to define requirements"
+      ],
+      "reason_for_not_match": "The primary reason for the low score and significant mismatch is that Carol Jenkins' resume demonstrates a career path and skill set entirely aligned with Product Management, not Frontend Engineering. She lacks any explicit mention or evidence of the required technical skills such as React, Node.js, or Python, which are critical for this role. While she meets the '3+ years experience' duration, the nature of her experience is not in a hands-on engineering capacity, and her projects reinforce her expertise in product and analytics rather than code development for frontend systems. The job specifically requires technical contributions like feasibility studies, proposing tech stacks, and developing PoCs for micro-frontends, none of which are reflected in her professional history."
+    },
+    "87a59986-90e5-4c7e-b553-4d0beeb79621_5ba4df8b-8696-48a6-ab69-2a05e0f2473b": {
+      "overall_score": 15,
+      "scores": {
+        "skills": 0,
+        "experience": 5,
+        "education": 85,
+        "certifications": 10,
+        "projects": 0
+      },
+      "explanation": "Carol Jenkins' resume presents a strong profile in Product Management with a focus on defining roadmaps, coordinating development sprints, and driving user activation through data-driven strategies. She holds a relevant Bachelor's degree in Business & Computer Science, which provides a foundational understanding of computer science principles. Her experience aligns well with the coordination and stakeholder collaboration aspects of the job description from a product perspective. However, the Frontend Engineer role explicitly requires hands-on technical skills in React, Node.js, and Python, along with experience in specific frontend technologies and architectures (NextJS, GraphQL, Module Federation). Carol's resume lacks any evidence of these core technical engineering skills, development experience, or relevant technical projects. Her professional roles and listed skills are entirely within product management.",
+      "missing_skills": [
+        "React",
+        "Node.js",
+        "Python",
+        "NextJS",
+        "GraphQL",
+        "Module Federation",
+        "Frontend Development"
+      ],
+      "key_strengths": [
+        "Strong academic foundation in Computer Science",
+        "Extensive experience in product management and agile methodologies",
+        "Proven ability to lead and coordinate with engineering teams",
+        "Data-driven approach to product optimization"
+      ],
+      "reason_for_not_match": "The primary reason for the low score is a significant mismatch between the candidate's professional background and the core technical requirements of a Frontend Engineer role. Carol Jenkins' entire career history, listed skills, and project work are focused on Product Management, not hands-on software development or engineering. Her resume does not demonstrate proficiency or experience with the required technical skills such as React, Node.js, Python, or specific frontend architectural patterns like micro-frontends (PoCs, feasibility studies on NextJS, GraphQL, Module Federation) mentioned in the job description. While she meets the duration for experience and has a relevant educational background, the nature of her experience is not aligned with an engineering position."
+    },
+    "455cc781-acc5-4f84-a869-3bd2107b7240_3654ec83-c850-49c0-a21b-31137d890d1e": {
+      "overall_score": 29,
+      "scores": {
+        "skills": 25,
+        "experience": 10,
+        "education": 100,
+        "certifications": 20,
+        "projects": 5
+      },
+      "explanation": "Alice Smith presents as a highly competent Software Engineer with a strong background in full-stack development, cloud infrastructure, and DevOps. Her academic background with a Bachelor's in Computer Science perfectly aligns with the educational preference for the Data Scientist role. She demonstrates proficiency in Python and SQL (PostgreSQL), which are foundational technical requirements. However, her professional experience over the past three years, along with her personal projects, are overwhelmingly focused on software development and system architecture, rather than the core responsibilities of a Data Scientist, such as developing predictive models or analyzing complex datasets using specialized machine learning techniques. While her general technical aptitude is high, the specific skills and experience required for a Data Scientist role are largely absent from her profile.",
+      "missing_skills": [
+        "PyTorch",
+        "TensorFlow",
+        "Scikit-learn",
+        "Machine Learning",
+        "NLP",
+        "Data Analytics (as a core competency for insights)",
+        "LLMs (as a plus)"
+      ],
+      "key_strengths": [
+        "Strong foundational programming skills in Python and SQL",
+        "Relevant Bachelor's degree in Computer Science",
+        "Solid Software Engineering experience (3+ years)",
+        "Proficiency in cloud technologies (AWS) and DevOps practices"
+      ],
+      "reason_for_not_match": "The primary reason for the low score is the significant disparity between the candidate's extensive experience as a Software Engineer and the specific requirements for a Data Scientist. While Alice has excellent technical skills, her resume lacks any direct evidence of experience in building predictive models, designing experimentation frameworks, analyzing unstructured datasets using statistical or machine learning methods, or utilizing core data science libraries such as PyTorch, TensorFlow, or Scikit-learn. Her Python and SQL expertise is demonstrated within a backend and API development context, rather than data analysis or model development. Her professional projects also reinforce her software engineering capabilities without showcasing any data science specific applications."
+    },
+    "455cc781-acc5-4f84-a869-3bd2107b7240_0b7bc61f-4b1d-42b2-9155-284d3708e82b": {
+      "overall_score": 23,
+      "scores": {
+        "skills": 10,
+        "experience": 15,
+        "education": 85,
+        "certifications": 0,
+        "projects": 20
+      },
+      "explanation": "Carol Jenkins presents as a strong Product Manager with a solid background in driving product growth through data-informed decisions, A/B testing, and managing development lifecycles. She possesses strong SQL skills and experience in analyzing user behavior and optimizing product funnels. Her Bachelor's degree in Business & Computer Science from Stanford provides a good academic foundation. However, her resume strongly aligns with product management roles rather than the technical demands of a Data Scientist position, primarily lacking core data science skills and experience in machine learning, predictive modeling, and advanced data analysis techniques.",
+      "missing_skills": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "Scikit-learn",
+        "Machine Learning",
+        "NLP",
+        "LLMs (preferred)",
+        "Developing predictive models",
+        "Analyzing complex unstructured datasets"
+      ],
+      "key_strengths": [
+        "Strong SQL proficiency",
+        "Experience with A/B testing and experimentation frameworks from a product perspective",
+        "Solid academic background with a Computer Science degree",
+        "Demonstrated ability to drive product insights using data (albeit at a product analyst/manager level)"
+      ],
+      "reason_for_not_match": "The primary reason for not receiving a perfect score (and a low score overall) is the significant misalignment between the candidate's career profile and the Data Scientist role requirements. The candidate's resume overwhelmingly showcases experience, skills, and projects in Product Management, not Data Science. There is a critical absence of foundational data science skills such as Python, PyTorch, TensorFlow, Scikit-learn, and direct experience in building and deploying machine learning models, natural language processing, or working with complex unstructured datasets, all of which are core requirements for the Data Scientist position. While some skills like SQL and A/B testing are relevant, they are applied within a product management context rather than a deep data science modeling or algorithm development context."
+    },
+    "455cc781-acc5-4f84-a869-3bd2107b7240_457d93f4-06bb-45a1-9f6e-17d2a53eecc8": {
+      "overall_score": 13,
+      "scores": {
+        "skills": 20,
+        "experience": 10,
+        "education": 10,
+        "certifications": 0,
+        "projects": 10
+      },
+      "explanation": "Carol Williams presents a resume strong in Product Management, demonstrating leadership, strategic thinking, and data-informed decision-making within a product lifecycle context. She has solid experience in using SQL for data analysis and utilizing product analytics tools like Mixpanel and Amplitude to drive product improvements. Her 4 years of professional experience meet the minimum duration requirement for the role.\n\nHowever, the candidate's profile is a significant mismatch for a Data Scientist position. Her background is almost exclusively in product management, which requires a different skill set and focus compared to core data science. While she engages with data, her experience does not include developing predictive models, designing rigorous experimentation frameworks, or applying advanced machine learning and natural language processing techniques to complex unstructured datasets. The essential technical skills like PyTorch, TensorFlow, Scikit-learn, and a deeper proficiency in Python for data science are largely absent. Her educational background and certifications are also not aligned with typical Data Science requirements.",
+      "missing_skills": [
+        "PyTorch",
+        "TensorFlow",
+        "Scikit-learn",
+        "Machine Learning",
+        "NLP",
+        "Predictive modeling",
+        "Experimentation framework design",
+        "Analyzing complex unstructured datasets",
+        "LLMs"
+      ],
+      "key_strengths": [
+        "Strong Product Management and leadership experience",
+        "Proficiency in SQL and product analytics tools",
+        "Experience with data-driven decision making in a product context",
+        "Good communication and stakeholder management skills"
+      ],
+      "reason_for_not_match": "The primary reason Carol Williams is not a strong match for the Data Scientist role is a fundamental misalignment between her extensive experience as a Product Manager and the deep technical requirements of a Data Scientist. Her career has focused on product strategy, roadmap definition, user research, and descriptive product analytics, rather than the core responsibilities of a Data Scientist, which include developing predictive models, implementing advanced machine learning algorithms, and designing statistical experimentation frameworks. She lacks proficiency in critical data science libraries (PyTorch, TensorFlow, Scikit-learn) and advanced techniques in machine learning and natural language processing. Her educational background and certifications further underscore her product-focused career path, rather than a specialized data science trajectory."
+    },
+    "455cc781-acc5-4f84-a869-3bd2107b7240_df09bad5-d8e3-49d3-897f-7df6b3f47775": {
+      "overall_score": 11,
+      "scores": {
+        "skills": 15,
+        "experience": 10,
+        "education": 15,
+        "certifications": 0,
+        "projects": 5
+      },
+      "explanation": "The candidate, Carol Williams, is primarily a Technical Product Manager with significant experience in product lifecycle management, user research, and stakeholder communication. While she demonstrates strong product management skills and some analytical capabilities using SQL and product analytics tools like Mixpanel, her profile shows a significant mismatch with the requirements for a Data Scientist role. She lacks the core machine learning, deep learning, and advanced statistical modeling skills and experience that are crucial for developing predictive models and working with complex unstructured datasets.",
+      "missing_skills": [
+        "PyTorch",
+        "TensorFlow",
+        "Scikit-learn",
+        "Machine Learning",
+        "NLP",
+        "Advanced Python"
+      ],
+      "key_strengths": [
+        "Strong SQL proficiency and experience with data analysis in a product context.",
+        "Proven experience in driving product insights and understanding user behavior.",
+        "Excellent communication and leadership skills from product management roles.",
+        "Familiarity with product analytics tools (Mixpanel, Amplitude)."
+      ],
+      "reason_for_not_match": "The primary reason Carol Williams is not a good match for this Data Scientist role is the fundamental misalignment between her Product Management background and the core technical demands of a Data Scientist. Her resume indicates strong proficiency in product strategy, roadmap definition, and team leadership, but these are distinct from the technical expertise required. Specifically, she lacks hands-on experience and listed skills in critical machine learning frameworks (PyTorch, TensorFlow, Scikit-learn), natural language processing, and the development of predictive models. Her Python skill is noted as 'Basic Python', which is insufficient for a Data Scientist role, and her project work does not showcase relevant data science applications. Furthermore, her education is not in a directly relevant quantitative field (Data Science, Statistics, Computer Science)."
+    },
+    "455cc781-acc5-4f84-a869-3bd2107b7240_4db8174c-a8aa-4697-a74c-f6c071cfd53f": {
+      "overall_score": 99,
+      "scores": {
+        "skills": 100,
+        "experience": 95,
+        "education": 100,
+        "certifications": 100,
+        "projects": 100
+      },
+      "explanation": "Bob Johnson is an exceptionally strong candidate for the Data Scientist role, demonstrating a comprehensive skillset, relevant experience, and a robust educational background. The candidate possesses all required technical skills, including Python, SQL, PyTorch, TensorFlow, Scikit-learn, Machine Learning, NLP, and Data Analytics, along with valuable complementary tools like Pandas, NumPy, NLTK, Tableau, and Apache Spark. His professional experience, totaling three years (one as a Data Scientist and two as a Junior Data Analyst), directly aligns with the job's core responsibilities, such as developing predictive models (customer churn), designing experimentation frameworks (A/B testing), and processing large datasets. Both his Master's in Data Science and Bachelor's in Statistics perfectly meet the educational preferences. The TensorFlow Developer Certificate further enhances his qualifications, and his projects (FinCheck, HousePriceNet) directly showcase practical application of NLP, deep learning, and predictive modeling, which are central to the role.",
+      "missing_skills": [
+        "LLMs (Large Language Models)"
+      ],
+      "key_strengths": [
+        "Comprehensive technical skillset aligning perfectly with all required tools and methodologies (e.g., Python, SQL, PyTorch, TensorFlow, NLP).",
+        "Direct, hands-on experience in developing predictive models and designing A/B testing frameworks, with quantifiable impact (e.g., 12% churn reduction).",
+        "Strong academic foundation with both a Master's in Data Science and a Bachelor's in Statistics from reputable universities.",
+        "Demonstrated ability to apply data science concepts through relevant projects involving NLP and deep learning."
+      ],
+      "reason_for_not_match": "The primary reason the candidate did not receive a perfect score is the lack of explicit experience with Large Language Models (LLMs), which was noted as a 'plus' in the job description. While not a mandatory requirement, its absence represents a minor gap in fully matching all desirable qualifications. Additionally, while the candidate exceeds the 2+ years of experience requirement, only one year is explicitly titled 'Data Scientist', with the preceding two years as a 'Junior Data Analyst'. Although the 'Junior Data Analyst' role demonstrated strong data science alignment, a slightly longer tenure in a senior Data Scientist capacity would have further solidified a perfect score."
+    },
+    "455cc781-acc5-4f84-a869-3bd2107b7240_3badd472-b9e4-43eb-afe6-16a8f5126082": {
+      "overall_score": 29,
+      "scores": {
+        "skills": 20,
+        "experience": 25,
+        "education": 90,
+        "certifications": 0,
+        "projects": 10
+      },
+      "explanation": "The candidate, Carol Jenkins, possesses a strong background in product management with demonstrated experience in A/B testing, user research, and SQL-based analytics for product optimization. Their Bachelor's degree in Business & Computer Science from Stanford University aligns well with the educational preferences for the role. However, the resume indicates a significant gap in core Data Science skills and tools, such as Python, PyTorch, TensorFlow, Scikit-learn, Machine Learning, and Natural Language Processing, which are explicitly required for this Data Scientist position. While some aspects of their experience touch upon experimentation and data analysis, they do not demonstrate proficiency in developing predictive models or analyzing complex unstructured datasets using advanced data science methodologies.",
+      "missing_skills": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "Scikit-learn",
+        "Machine Learning",
+        "NLP",
+        "LLMs"
+      ],
+      "key_strengths": [
+        "SQL proficiency",
+        "Experience with A/B Testing and experimentation frameworks",
+        "Strong Product Analytics background",
+        "Bachelor's degree with Computer Science focus"
+      ],
+      "reason_for_not_match": "The primary reason for not receiving a perfect score is a significant mismatch between the candidate's deep expertise in product management and the highly technical, data science-specific requirements of the role. While Carol has extensive experience in managing product features, optimizing user flows, and conducting A/B tests, their resume lacks direct evidence of developing predictive models, utilizing advanced machine learning libraries (PyTorch, TensorFlow, Scikit-learn), or working with natural language processing for complex unstructured datasets. The certifications and projects further reinforce a product-centric profile rather than a data science one, indicating a fundamental divergence from the core responsibilities of a Data Scientist focused on model development and advanced analytical techniques."
+    },
+    "455cc781-acc5-4f84-a869-3bd2107b7240_6127f5b7-c801-492d-8b15-84357708e9f5": {
+      "overall_score": 30,
+      "scores": {
+        "skills": 25,
+        "experience": 10,
+        "education": 100,
+        "certifications": 20,
+        "projects": 10
+      },
+      "explanation": "Bob Miller presents as a highly capable Backend Software Engineer with strong foundational skills in Python, SQL, and microservice architecture. His academic background in Computer Science aligns well with the foundational requirements for a technical role. However, his resume exhibits a significant mismatch with the specialized demands of a Data Scientist position. While he meets the minimum experience duration, his professional experience and projects are almost entirely focused on software development and infrastructure rather than the core methodologies, tools, and outcomes of data science, such as machine learning, natural language processing, or predictive modeling. There is a clear lack of demonstrated experience with key data science libraries and techniques specifically required for this role.",
+      "missing_skills": [
+        "PyTorch",
+        "TensorFlow",
+        "Scikit-learn",
+        "Machine Learning",
+        "NLP",
+        "Data Analytics",
+        "LLMs (preferred)"
+      ],
+      "key_strengths": [
+        "Strong foundational Python and SQL skills",
+        "Solid Bachelor's degree in Computer Science",
+        "Demonstrated experience in backend software architecture and microservices",
+        "Proficiency in cloud technologies (AWS)"
+      ],
+      "reason_for_not_match": "The candidate did not receive a higher score primarily due to the substantial gap in specific data science skills and experience. Although Bob has a strong technical background and meets the required years of experience, his professional roles and projects are rooted in backend software engineering. The job description explicitly calls for developing predictive models, designing experimentation frameworks, and analyzing complex datasets using tools like PyTorch, TensorFlow, Scikit-learn, and applying Machine Learning/NLP. Bob's resume lacks any direct evidence of these specific data science functions, methodologies, or the utilization of the required specialized libraries. His experience building microservices and managing databases, while valuable, does not directly translate to the core responsibilities of a Data Scientist position."
+    },
+    "455cc781-acc5-4f84-a869-3bd2107b7240_e9e2040a-359b-4eee-ac71-7769d1918b7f": {
+      "overall_score": 18,
+      "scores": {
+        "skills": 10,
+        "experience": 5,
+        "education": 80,
+        "certifications": 0,
+        "projects": 10
+      },
+      "explanation": "Carol Jenkins presents as a highly competent Product Manager with a strong background in defining product roadmaps, leading development sprints, and optimizing user experiences through A/B testing and user research. Her resume highlights proficiency in SQL and familiarity with product analytics tools like Google Analytics, Mixpanel, and Optimizely. Her Bachelor's degree in Business & Computer Science from Stanford University provides a solid technical foundation. While her experience with A/B testing and SQL analytics touches upon data-driven decision-making, her career trajectory and explicit skill set are primarily aligned with product management rather than the specialized technical demands of a Data Scientist role.",
+      "missing_skills": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "Scikit-learn",
+        "Machine Learning",
+        "NLP",
+        "Data Analytics (specifically for predictive modeling and unstructured datasets)",
+        "LLMs"
+      ],
+      "key_strengths": [
+        "Proficiency in SQL and product analytics tools",
+        "Experience with A/B testing and experimentation design",
+        "Solid educational background in Computer Science",
+        "Proven ability to drive product insights and improvements"
+      ],
+      "reason_for_not_match": "The candidate did not receive a perfect score primarily due to a substantial misalignment with the core technical skills and experience required for a Data Scientist role. While Carol has a strong analytical mindset and experience with SQL and A/B testing, her resume lacks explicit mentions or demonstrations of proficiency in critical data science technologies such as Python, Machine Learning frameworks (PyTorch, TensorFlow, Scikit-learn), and specialized areas like Natural Language Processing (NLP) or developing predictive models. Her professional experience is heavily concentrated in Product Management, which, while valuable for understanding product insights, does not involve the deep statistical modeling, algorithm development, or complex unstructured data analysis that defines a Data Scientist's responsibilities. The certifications and projects also reinforce a product optimization focus rather than data science expertise."
+    },
+    "455cc781-acc5-4f84-a869-3bd2107b7240_3b2bcba8-1ca1-4bee-a7ae-9bcee86f8317": {
+      "overall_score": 28,
+      "scores": {
+        "skills": 20,
+        "experience": 15,
+        "education": 80,
+        "certifications": 0,
+        "projects": 40
+      },
+      "explanation": "Carol Jenkins presents a strong profile in Product Management with extensive experience in leading product roadmaps, A/B testing, and utilizing SQL for data analysis to drive product insights. While she possesses a solid educational foundation in Computer Science and demonstrates analytical capabilities relevant to understanding product performance, her resume significantly lacks the core technical skills and direct experience typically required for a Data Scientist role, such as machine learning model development, specific programming languages like Python, and proficiency with ML/DL frameworks.",
+      "missing_skills": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "Scikit-learn",
+        "Machine Learning",
+        "NLP",
+        "Data Analytics (advanced statistical modeling)",
+        "LLMs"
+      ],
+      "key_strengths": [
+        "Proficiency in SQL for data analysis.",
+        "Strong experience with A/B testing and experimentation.",
+        "Bachelor's degree in Computer Science.",
+        "Experience in driving product insights through data."
+      ],
+      "reason_for_not_match": "The candidate's profile is a strong match for a Product Manager role but exhibits a significant mismatch for a Data Scientist position. The primary reason for the low score is the absence of critical data science technical skills, including advanced programming in Python, experience with machine learning frameworks (PyTorch, TensorFlow, Scikit-learn), and demonstrable expertise in developing predictive models or working with natural language processing. While her experience includes data-driven decision-making and A/B testing, these are applied from a product management perspective and do not show the depth of analytical modeling, algorithm development, or unstructured data processing expected from a Data Scientist. Her certifications are also specific to Product Management and do not add value to a Data Science application."
+    },
+    "455cc781-acc5-4f84-a869-3bd2107b7240_5d3e3205-2fda-4f2d-bd61-564ed5e8ee76": {
+      "overall_score": 36,
+      "scores": {
+        "skills": 30,
+        "experience": 25,
+        "education": 100,
+        "certifications": 0,
+        "projects": 30
+      },
+      "explanation": "Carol Jenkins presents a strong profile in Product Management with 4 years of experience, demonstrating proficiency in SQL, A/B testing, and leading product analytics initiatives. Her educational background with a Bachelor of Science in Business & Computer Science from Stanford University aligns perfectly with the academic requirements for a Data Scientist role. She has proven capabilities in leveraging data for product optimization and decision-making, as evidenced by her project and work experience. The candidate's experience in designing experimentation frameworks and analyzing product performance metrics partially aligns with the 'design experimentation frameworks' and 'data analytics' aspects of the Data Scientist role, specifically from a product analytics perspective.",
+      "missing_skills": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "Scikit-learn",
+        "Machine Learning",
+        "NLP",
+        "experience with complex unstructured datasets",
+        "LLMs"
+      ],
+      "key_strengths": [
+        "Strong academic foundation with a Bachelor's in Computer Science.",
+        "Proven ability in designing and executing A/B tests and experimentation frameworks.",
+        "Proficiency in SQL and strong product analytics capabilities.",
+        "Solid experience in leveraging data to drive product insights and optimization."
+      ],
+      "reason_for_not_match": "The primary reason for not achieving a perfect score is the significant mismatch between the candidate's career trajectory as a Product Manager and the core technical requirements of a Data Scientist role. While the candidate possesses excellent analytical skills applied within a product context, there is a distinct lack of experience and skills in developing predictive models, utilizing advanced machine learning frameworks (e.g., PyTorch, TensorFlow, Scikit-learn), programming in Python for data science, and working with Natural Language Processing (NLP) or complex unstructured datasets. The certifications also do not directly support a Data Scientist role, focusing instead on product methodology rather than data science techniques."
+    },
+    "455cc781-acc5-4f84-a869-3bd2107b7240_30c312c4-994d-4d8f-a661-fbbe1bf87abd": {
+      "overall_score": 58,
+      "scores": {
+        "skills": 20,
+        "experience": 80,
+        "education": 95,
+        "certifications": 70,
+        "projects": 65
+      },
+      "explanation": "Candidate evaluation (Local Fallback Analysis - Gemini API Rate Limited). Carol Jenkins presents a solid 58% profile alignment for the Data Scientist position. Key strengths include demonstrated background in Product Management, Roadmap Definition, Agile/Scrum and a structured professional timeline. Core requirements matched: SQL. Areas for further technical review include missing skills: Python, PyTorch, TensorFlow.",
+      "missing_skills": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "Scikit-learn"
+      ],
+      "key_strengths": [
+        "Technical background in Product Management",
+        "Proven work history in 2 organizations",
+        "Hands-on projects experience"
+      ],
+      "reason_for_not_match": "Candidate lacks documented experience in some core requirements: Python, PyTorch, TensorFlow."
+    },
+    "455cc781-acc5-4f84-a869-3bd2107b7240_5ba4df8b-8696-48a6-ab69-2a05e0f2473b": {
+      "overall_score": 58,
+      "scores": {
+        "skills": 20,
+        "experience": 80,
+        "education": 95,
+        "certifications": 70,
+        "projects": 65
+      },
+      "explanation": "Candidate evaluation (Local Fallback Analysis - Gemini API Rate Limited). Carol Jenkins presents a solid 58% profile alignment for the Data Scientist position. Key strengths include demonstrated background in Product Management, Roadmap Definition, Agile/Scrum and a structured professional timeline. Core requirements matched: SQL. Areas for further technical review include missing skills: Python, PyTorch, TensorFlow.",
+      "missing_skills": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "Scikit-learn"
+      ],
+      "key_strengths": [
+        "Technical background in Product Management",
+        "Proven work history in 2 organizations",
+        "Hands-on projects experience"
+      ],
+      "reason_for_not_match": "Candidate lacks documented experience in some core requirements: Python, PyTorch, TensorFlow."
+    },
+    "a093fbaa-18e5-4d1d-9aa9-65a1d33474ec_3654ec83-c850-49c0-a21b-31137d890d1e": {
+      "overall_score": 60,
+      "scores": {
+        "skills": 20,
+        "experience": 80,
+        "education": 95,
+        "certifications": 70,
+        "projects": 80
+      },
+      "explanation": "Candidate evaluation (Local Fallback Analysis - Gemini API Rate Limited). ALICE SMITH presents a solid 60% profile alignment for the Technical Product Manager position. Key strengths include demonstrated background in React, Redux, JavaScript (ES6+) and a structured professional timeline. Core requirements matched: SQL. Areas for further technical review include missing skills: Product Strategy, Roadmap Definition, Agile/Scrum.",
+      "missing_skills": [
+        "Product Strategy",
+        "Roadmap Definition",
+        "Agile/Scrum",
+        "Analytics"
+      ],
+      "key_strengths": [
+        "Technical background in React",
+        "Proven work history in 2 organizations",
+        "Hands-on projects experience"
+      ],
+      "reason_for_not_match": "Candidate lacks documented experience in some core requirements: Product Strategy, Roadmap Definition, Agile/Scrum."
+    },
+    "a093fbaa-18e5-4d1d-9aa9-65a1d33474ec_0b7bc61f-4b1d-42b2-9155-284d3708e82b": {
+      "overall_score": 80,
+      "scores": {
+        "skills": 83,
+        "experience": 80,
+        "education": 95,
+        "certifications": 70,
+        "projects": 65
+      },
+      "explanation": "Candidate evaluation (Local Fallback Analysis - Gemini API Rate Limited). Carol Jenkins presents a solid 80% profile alignment for the Technical Product Manager position. Key strengths include demonstrated background in Product Management, Roadmap Definition, Agile/Scrum and a structured professional timeline. Core requirements matched: Roadmap Definition, Agile/Scrum, User Research, Analytics. Areas for further technical review include missing skills: Product Strategy.",
+      "missing_skills": [
+        "Product Strategy"
+      ],
+      "key_strengths": [
+        "Technical background in Product Management",
+        "Proven work history in 2 organizations",
+        "Hands-on projects experience"
+      ],
+      "reason_for_not_match": "Candidate lacks documented experience in some core requirements: Product Strategy."
+    },
+    "a093fbaa-18e5-4d1d-9aa9-65a1d33474ec_457d93f4-06bb-45a1-9f6e-17d2a53eecc8": {
+      "overall_score": 82,
+      "scores": {
+        "skills": 83,
+        "experience": 80,
+        "education": 95,
+        "certifications": 70,
+        "projects": 80
+      },
+      "explanation": "Candidate evaluation (Local Fallback Analysis - Gemini API Rate Limited). CAROL WILLIAMS presents a solid 82% profile alignment for the Technical Product Manager position. Key strengths include demonstrated background in Product Strategy, Roadmap Definition, Agile/Scrum and a structured professional timeline. Core requirements matched: Roadmap Definition, Agile/Scrum, User Research, Product Strategy. Areas for further technical review include missing skills: Analytics.",
+      "missing_skills": [
+        "Analytics"
+      ],
+      "key_strengths": [
+        "Technical background in Product Strategy",
+        "Proven work history in 2 organizations",
+        "Hands-on projects experience"
+      ],
+      "reason_for_not_match": "Candidate lacks documented experience in some core requirements: Analytics."
+    },
+    "a093fbaa-18e5-4d1d-9aa9-65a1d33474ec_df09bad5-d8e3-49d3-897f-7df6b3f47775": {
+      "overall_score": 82,
+      "scores": {
+        "skills": 83,
+        "experience": 80,
+        "education": 95,
+        "certifications": 70,
+        "projects": 80
+      },
+      "explanation": "Candidate evaluation (Local Fallback Analysis - Gemini API Rate Limited). CAROL WILLIAMS presents a solid 82% profile alignment for the Technical Product Manager position. Key strengths include demonstrated background in Product Strategy, Roadmap Definition, Agile/Scrum and a structured professional timeline. Core requirements matched: Roadmap Definition, Agile/Scrum, User Research, Product Strategy. Areas for further technical review include missing skills: Analytics.",
+      "missing_skills": [
+        "Analytics"
+      ],
+      "key_strengths": [
+        "Technical background in Product Strategy",
+        "Proven work history in 2 organizations",
+        "Hands-on projects experience"
+      ],
+      "reason_for_not_match": "Candidate lacks documented experience in some core requirements: Analytics."
+    },
+    "a093fbaa-18e5-4d1d-9aa9-65a1d33474ec_4db8174c-a8aa-4697-a74c-f6c071cfd53f": {
+      "overall_score": 82,
+      "scores": {
+        "skills": 83,
+        "experience": 80,
+        "education": 95,
+        "certifications": 70,
+        "projects": 80
+      },
+      "explanation": "Candidate evaluation (Local Fallback Analysis - Gemini API Rate Limited). BOB JOHNSON presents a solid 82% profile alignment for the Technical Product Manager position. Key strengths include demonstrated background in Python, R, SQL and a structured professional timeline. Core requirements matched: Roadmap Definition, Agile/Scrum, User Research, Product Strategy. Areas for further technical review include missing skills: Analytics.",
+      "missing_skills": [
+        "Analytics"
+      ],
+      "key_strengths": [
+        "Technical background in Python",
+        "Proven work history in 2 organizations",
+        "Hands-on projects experience"
+      ],
+      "reason_for_not_match": "Candidate lacks documented experience in some core requirements: Analytics."
+    },
+    "a093fbaa-18e5-4d1d-9aa9-65a1d33474ec_3badd472-b9e4-43eb-afe6-16a8f5126082": {
+      "overall_score": 80,
+      "scores": {
+        "skills": 83,
+        "experience": 80,
+        "education": 95,
+        "certifications": 70,
+        "projects": 65
+      },
+      "explanation": "Candidate evaluation (Local Fallback Analysis - Gemini API Rate Limited). Carol Jenkins presents a solid 80% profile alignment for the Technical Product Manager position. Key strengths include demonstrated background in Product Management, Roadmap Definition, Agile/Scrum and a structured professional timeline. Core requirements matched: Roadmap Definition, Agile/Scrum, User Research, Analytics. Areas for further technical review include missing skills: Product Strategy.",
+      "missing_skills": [
+        "Product Strategy"
+      ],
+      "key_strengths": [
+        "Technical background in Product Management",
+        "Proven work history in 2 organizations",
+        "Hands-on projects experience"
+      ],
+      "reason_for_not_match": "Candidate lacks documented experience in some core requirements: Product Strategy."
+    },
+    "a093fbaa-18e5-4d1d-9aa9-65a1d33474ec_6127f5b7-c801-492d-8b15-84357708e9f5": {
+      "overall_score": 52,
+      "scores": {
+        "skills": 20,
+        "experience": 60,
+        "education": 95,
+        "certifications": 70,
+        "projects": 65
+      },
+      "explanation": "Candidate evaluation (Local Fallback Analysis - Gemini API Rate Limited). Bob Miller presents a solid 52% profile alignment for the Technical Product Manager position. Key strengths include demonstrated background in Python, FastAPI, Django and a structured professional timeline. Core requirements matched: SQL. Areas for further technical review include missing skills: Product Strategy, Roadmap Definition, Agile/Scrum.",
+      "missing_skills": [
+        "Product Strategy",
+        "Roadmap Definition",
+        "Agile/Scrum",
+        "Analytics"
+      ],
+      "key_strengths": [
+        "Technical background in Python",
+        "Proven work history in 1 organizations",
+        "Hands-on projects experience"
+      ],
+      "reason_for_not_match": "Candidate lacks documented experience in some core requirements: Product Strategy, Roadmap Definition, Agile/Scrum."
+    },
+    "a093fbaa-18e5-4d1d-9aa9-65a1d33474ec_e9e2040a-359b-4eee-ac71-7769d1918b7f": {
+      "overall_score": 80,
+      "scores": {
+        "skills": 83,
+        "experience": 80,
+        "education": 95,
+        "certifications": 70,
+        "projects": 65
+      },
+      "explanation": "Candidate evaluation (Local Fallback Analysis - Gemini API Rate Limited). Carol Jenkins presents a solid 80% profile alignment for the Technical Product Manager position. Key strengths include demonstrated background in Product Management, Roadmap Definition, Agile/Scrum and a structured professional timeline. Core requirements matched: Roadmap Definition, Agile/Scrum, User Research, Analytics. Areas for further technical review include missing skills: Product Strategy.",
+      "missing_skills": [
+        "Product Strategy"
+      ],
+      "key_strengths": [
+        "Technical background in Product Management",
+        "Proven work history in 2 organizations",
+        "Hands-on projects experience"
+      ],
+      "reason_for_not_match": "Candidate lacks documented experience in some core requirements: Product Strategy."
+    },
+    "a093fbaa-18e5-4d1d-9aa9-65a1d33474ec_3b2bcba8-1ca1-4bee-a7ae-9bcee86f8317": {
+      "overall_score": 80,
+      "scores": {
+        "skills": 83,
+        "experience": 80,
+        "education": 95,
+        "certifications": 70,
+        "projects": 65
+      },
+      "explanation": "Candidate evaluation (Local Fallback Analysis - Gemini API Rate Limited). Carol Jenkins presents a solid 80% profile alignment for the Technical Product Manager position. Key strengths include demonstrated background in Product Management, Roadmap Definition, Agile/Scrum and a structured professional timeline. Core requirements matched: Roadmap Definition, Agile/Scrum, User Research, Analytics. Areas for further technical review include missing skills: Product Strategy.",
+      "missing_skills": [
+        "Product Strategy"
+      ],
+      "key_strengths": [
+        "Technical background in Product Management",
+        "Proven work history in 2 organizations",
+        "Hands-on projects experience"
+      ],
+      "reason_for_not_match": "Candidate lacks documented experience in some core requirements: Product Strategy."
+    },
+    "a093fbaa-18e5-4d1d-9aa9-65a1d33474ec_5d3e3205-2fda-4f2d-bd61-564ed5e8ee76": {
+      "overall_score": 80,
+      "scores": {
+        "skills": 83,
+        "experience": 80,
+        "education": 95,
+        "certifications": 70,
+        "projects": 65
+      },
+      "explanation": "Candidate evaluation (Local Fallback Analysis - Gemini API Rate Limited). Carol Jenkins presents a solid 80% profile alignment for the Technical Product Manager position. Key strengths include demonstrated background in Product Management, Roadmap Definition, Agile/Scrum and a structured professional timeline. Core requirements matched: Roadmap Definition, Agile/Scrum, User Research, Analytics. Areas for further technical review include missing skills: Product Strategy.",
+      "missing_skills": [
+        "Product Strategy"
+      ],
+      "key_strengths": [
+        "Technical background in Product Management",
+        "Proven work history in 2 organizations",
+        "Hands-on projects experience"
+      ],
+      "reason_for_not_match": "Candidate lacks documented experience in some core requirements: Product Strategy."
+    },
+    "a093fbaa-18e5-4d1d-9aa9-65a1d33474ec_30c312c4-994d-4d8f-a661-fbbe1bf87abd": {
+      "overall_score": 80,
+      "scores": {
+        "skills": 83,
+        "experience": 80,
+        "education": 95,
+        "certifications": 70,
+        "projects": 65
+      },
+      "explanation": "Candidate evaluation (Local Fallback Analysis - Gemini API Rate Limited). Carol Jenkins presents a solid 80% profile alignment for the Technical Product Manager position. Key strengths include demonstrated background in Product Management, Roadmap Definition, Agile/Scrum and a structured professional timeline. Core requirements matched: Roadmap Definition, Agile/Scrum, User Research, Analytics. Areas for further technical review include missing skills: Product Strategy.",
+      "missing_skills": [
+        "Product Strategy"
+      ],
+      "key_strengths": [
+        "Technical background in Product Management",
+        "Proven work history in 2 organizations",
+        "Hands-on projects experience"
+      ],
+      "reason_for_not_match": "Candidate lacks documented experience in some core requirements: Product Strategy."
+    },
+    "a093fbaa-18e5-4d1d-9aa9-65a1d33474ec_5ba4df8b-8696-48a6-ab69-2a05e0f2473b": {
+      "overall_score": 80,
+      "scores": {
+        "skills": 83,
+        "experience": 80,
+        "education": 95,
+        "certifications": 70,
+        "projects": 65
+      },
+      "explanation": "Candidate evaluation (Local Fallback Analysis - Gemini API Rate Limited). Carol Jenkins presents a solid 80% profile alignment for the Technical Product Manager position. Key strengths include demonstrated background in Product Management, Roadmap Definition, Agile/Scrum and a structured professional timeline. Core requirements matched: Roadmap Definition, Agile/Scrum, User Research, Analytics. Areas for further technical review include missing skills: Product Strategy.",
+      "missing_skills": [
+        "Product Strategy"
+      ],
+      "key_strengths": [
+        "Technical background in Product Management",
+        "Proven work history in 2 organizations",
+        "Hands-on projects experience"
+      ],
+      "reason_for_not_match": "Candidate lacks documented experience in some core requirements: Product Strategy."
+    },
+    "53d523b0-dae8-4ee9-91ac-da22eaef0dcb_3654ec83-c850-49c0-a21b-31137d890d1e": {
+      "overall_score": 63,
+      "scores": {
+        "skills": 28,
+        "experience": 80,
+        "education": 95,
+        "certifications": 70,
+        "projects": 80
+      },
+      "explanation": "Candidate evaluation (Local Fallback Analysis - Gemini API Rate Limited). ALICE SMITH presents a solid 63% profile alignment for the AI Data Scientist position. Key strengths include demonstrated background in React, Redux, JavaScript (ES6+) and a structured professional timeline. Core requirements matched: Python, SQL. Areas for further technical review include missing skills: PyTorch, LLMs, NLP.",
+      "missing_skills": [
+        "PyTorch",
+        "LLMs",
+        "NLP",
+        "Pandas"
+      ],
+      "key_strengths": [
+        "Technical background in React",
+        "Proven work history in 2 organizations",
+        "Hands-on projects experience"
+      ],
+      "reason_for_not_match": "Candidate lacks documented experience in some core requirements: PyTorch, LLMs, NLP."
+    },
+    "53d523b0-dae8-4ee9-91ac-da22eaef0dcb_0b7bc61f-4b1d-42b2-9155-284d3708e82b": {
+      "overall_score": 58,
+      "scores": {
+        "skills": 20,
+        "experience": 80,
+        "education": 95,
+        "certifications": 70,
+        "projects": 65
+      },
+      "explanation": "Candidate evaluation (Local Fallback Analysis - Gemini API Rate Limited). Carol Jenkins presents a solid 58% profile alignment for the AI Data Scientist position. Key strengths include demonstrated background in Product Management, Roadmap Definition, Agile/Scrum and a structured professional timeline. Core requirements matched: SQL. Areas for further technical review include missing skills: Python, PyTorch, LLMs.",
+      "missing_skills": [
+        "Python",
+        "PyTorch",
+        "LLMs",
+        "NLP"
+      ],
+      "key_strengths": [
+        "Technical background in Product Management",
+        "Proven work history in 2 organizations",
+        "Hands-on projects experience"
+      ],
+      "reason_for_not_match": "Candidate lacks documented experience in some core requirements: Python, PyTorch, LLMs."
+    },
+    "53d523b0-dae8-4ee9-91ac-da22eaef0dcb_457d93f4-06bb-45a1-9f6e-17d2a53eecc8": {
+      "overall_score": 63,
+      "scores": {
+        "skills": 28,
+        "experience": 80,
+        "education": 95,
+        "certifications": 70,
+        "projects": 80
+      },
+      "explanation": "Candidate evaluation (Local Fallback Analysis - Gemini API Rate Limited). CAROL WILLIAMS presents a solid 63% profile alignment for the AI Data Scientist position. Key strengths include demonstrated background in Product Strategy, Roadmap Definition, Agile/Scrum and a structured professional timeline. Core requirements matched: Python, SQL. Areas for further technical review include missing skills: PyTorch, LLMs, NLP.",
+      "missing_skills": [
+        "PyTorch",
+        "LLMs",
+        "NLP",
+        "Pandas"
+      ],
+      "key_strengths": [
+        "Technical background in Product Strategy",
+        "Proven work history in 2 organizations",
+        "Hands-on projects experience"
+      ],
+      "reason_for_not_match": "Candidate lacks documented experience in some core requirements: PyTorch, LLMs, NLP."
+    },
+    "53d523b0-dae8-4ee9-91ac-da22eaef0dcb_df09bad5-d8e3-49d3-897f-7df6b3f47775": {
+      "overall_score": 63,
+      "scores": {
+        "skills": 28,
+        "experience": 80,
+        "education": 95,
+        "certifications": 70,
+        "projects": 80
+      },
+      "explanation": "Candidate evaluation (Local Fallback Analysis - Gemini API Rate Limited). CAROL WILLIAMS presents a solid 63% profile alignment for the AI Data Scientist position. Key strengths include demonstrated background in Product Strategy, Roadmap Definition, Agile/Scrum and a structured professional timeline. Core requirements matched: Python, SQL. Areas for further technical review include missing skills: PyTorch, LLMs, NLP.",
+      "missing_skills": [
+        "PyTorch",
+        "LLMs",
+        "NLP",
+        "Pandas"
+      ],
+      "key_strengths": [
+        "Technical background in Product Strategy",
+        "Proven work history in 2 organizations",
+        "Hands-on projects experience"
+      ],
+      "reason_for_not_match": "Candidate lacks documented experience in some core requirements: PyTorch, LLMs, NLP."
+    },
+    "53d523b0-dae8-4ee9-91ac-da22eaef0dcb_4db8174c-a8aa-4697-a74c-f6c071cfd53f": {
+      "overall_score": 78,
+      "scores": {
+        "skills": 71,
+        "experience": 80,
+        "education": 95,
+        "certifications": 70,
+        "projects": 80
+      },
+      "explanation": "Candidate evaluation (Local Fallback Analysis - Gemini API Rate Limited). BOB JOHNSON presents a solid 78% profile alignment for the AI Data Scientist position. Key strengths include demonstrated background in Python, R, SQL and a structured professional timeline. Core requirements matched: Pandas, PyTorch, Scikit-Learn, Python. Areas for further technical review include missing skills: LLMs, NLP.",
+      "missing_skills": [
+        "LLMs",
+        "NLP"
+      ],
+      "key_strengths": [
+        "Technical background in Python",
+        "Proven work history in 2 organizations",
+        "Hands-on projects experience"
+      ],
+      "reason_for_not_match": "Candidate lacks documented experience in some core requirements: LLMs, NLP."
+    },
+    "53d523b0-dae8-4ee9-91ac-da22eaef0dcb_3badd472-b9e4-43eb-afe6-16a8f5126082": {
+      "overall_score": 58,
+      "scores": {
+        "skills": 20,
+        "experience": 80,
+        "education": 95,
+        "certifications": 70,
+        "projects": 65
+      },
+      "explanation": "Candidate evaluation (Local Fallback Analysis - Gemini API Rate Limited). Carol Jenkins presents a solid 58% profile alignment for the AI Data Scientist position. Key strengths include demonstrated background in Product Management, Roadmap Definition, Agile/Scrum and a structured professional timeline. Core requirements matched: SQL. Areas for further technical review include missing skills: Python, PyTorch, LLMs.",
+      "missing_skills": [
+        "Python",
+        "PyTorch",
+        "LLMs",
+        "NLP"
+      ],
+      "key_strengths": [
+        "Technical background in Product Management",
+        "Proven work history in 2 organizations",
+        "Hands-on projects experience"
+      ],
+      "reason_for_not_match": "Candidate lacks documented experience in some core requirements: Python, PyTorch, LLMs."
+    },
+    "53d523b0-dae8-4ee9-91ac-da22eaef0dcb_6127f5b7-c801-492d-8b15-84357708e9f5": {
+      "overall_score": 55,
+      "scores": {
+        "skills": 28,
+        "experience": 60,
+        "education": 95,
+        "certifications": 70,
+        "projects": 65
+      },
+      "explanation": "Candidate evaluation (Local Fallback Analysis - Gemini API Rate Limited). Bob Miller presents a solid 55% profile alignment for the AI Data Scientist position. Key strengths include demonstrated background in Python, FastAPI, Django and a structured professional timeline. Core requirements matched: Python, SQL. Areas for further technical review include missing skills: PyTorch, LLMs, NLP.",
+      "missing_skills": [
+        "PyTorch",
+        "LLMs",
+        "NLP",
+        "Pandas"
+      ],
+      "key_strengths": [
+        "Technical background in Python",
+        "Proven work history in 1 organizations",
+        "Hands-on projects experience"
+      ],
+      "reason_for_not_match": "Candidate lacks documented experience in some core requirements: PyTorch, LLMs, NLP."
+    },
+    "53d523b0-dae8-4ee9-91ac-da22eaef0dcb_e9e2040a-359b-4eee-ac71-7769d1918b7f": {
+      "overall_score": 58,
+      "scores": {
+        "skills": 20,
+        "experience": 80,
+        "education": 95,
+        "certifications": 70,
+        "projects": 65
+      },
+      "explanation": "Candidate evaluation (Local Fallback Analysis - Gemini API Rate Limited). Carol Jenkins presents a solid 58% profile alignment for the AI Data Scientist position. Key strengths include demonstrated background in Product Management, Roadmap Definition, Agile/Scrum and a structured professional timeline. Core requirements matched: SQL. Areas for further technical review include missing skills: Python, PyTorch, LLMs.",
+      "missing_skills": [
+        "Python",
+        "PyTorch",
+        "LLMs",
+        "NLP"
+      ],
+      "key_strengths": [
+        "Technical background in Product Management",
+        "Proven work history in 2 organizations",
+        "Hands-on projects experience"
+      ],
+      "reason_for_not_match": "Candidate lacks documented experience in some core requirements: Python, PyTorch, LLMs."
+    },
+    "53d523b0-dae8-4ee9-91ac-da22eaef0dcb_3b2bcba8-1ca1-4bee-a7ae-9bcee86f8317": {
+      "overall_score": 58,
+      "scores": {
+        "skills": 20,
+        "experience": 80,
+        "education": 95,
+        "certifications": 70,
+        "projects": 65
+      },
+      "explanation": "Candidate evaluation (Local Fallback Analysis - Gemini API Rate Limited). Carol Jenkins presents a solid 58% profile alignment for the AI Data Scientist position. Key strengths include demonstrated background in Product Management, Roadmap Definition, Agile/Scrum and a structured professional timeline. Core requirements matched: SQL. Areas for further technical review include missing skills: Python, PyTorch, LLMs.",
+      "missing_skills": [
+        "Python",
+        "PyTorch",
+        "LLMs",
+        "NLP"
+      ],
+      "key_strengths": [
+        "Technical background in Product Management",
+        "Proven work history in 2 organizations",
+        "Hands-on projects experience"
+      ],
+      "reason_for_not_match": "Candidate lacks documented experience in some core requirements: Python, PyTorch, LLMs."
+    },
+    "53d523b0-dae8-4ee9-91ac-da22eaef0dcb_5d3e3205-2fda-4f2d-bd61-564ed5e8ee76": {
+      "overall_score": 58,
+      "scores": {
+        "skills": 20,
+        "experience": 80,
+        "education": 95,
+        "certifications": 70,
+        "projects": 65
+      },
+      "explanation": "Candidate evaluation (Local Fallback Analysis - Gemini API Rate Limited). Carol Jenkins presents a solid 58% profile alignment for the AI Data Scientist position. Key strengths include demonstrated background in Product Management, Roadmap Definition, Agile/Scrum and a structured professional timeline. Core requirements matched: SQL. Areas for further technical review include missing skills: Python, PyTorch, LLMs.",
+      "missing_skills": [
+        "Python",
+        "PyTorch",
+        "LLMs",
+        "NLP"
+      ],
+      "key_strengths": [
+        "Technical background in Product Management",
+        "Proven work history in 2 organizations",
+        "Hands-on projects experience"
+      ],
+      "reason_for_not_match": "Candidate lacks documented experience in some core requirements: Python, PyTorch, LLMs."
+    },
+    "53d523b0-dae8-4ee9-91ac-da22eaef0dcb_30c312c4-994d-4d8f-a661-fbbe1bf87abd": {
+      "overall_score": 58,
+      "scores": {
+        "skills": 20,
+        "experience": 80,
+        "education": 95,
+        "certifications": 70,
+        "projects": 65
+      },
+      "explanation": "Candidate evaluation (Local Fallback Analysis - Gemini API Rate Limited). Carol Jenkins presents a solid 58% profile alignment for the AI Data Scientist position. Key strengths include demonstrated background in Product Management, Roadmap Definition, Agile/Scrum and a structured professional timeline. Core requirements matched: SQL. Areas for further technical review include missing skills: Python, PyTorch, LLMs.",
+      "missing_skills": [
+        "Python",
+        "PyTorch",
+        "LLMs",
+        "NLP"
+      ],
+      "key_strengths": [
+        "Technical background in Product Management",
+        "Proven work history in 2 organizations",
+        "Hands-on projects experience"
+      ],
+      "reason_for_not_match": "Candidate lacks documented experience in some core requirements: Python, PyTorch, LLMs."
+    },
+    "53d523b0-dae8-4ee9-91ac-da22eaef0dcb_5ba4df8b-8696-48a6-ab69-2a05e0f2473b": {
+      "overall_score": 58,
+      "scores": {
+        "skills": 20,
+        "experience": 80,
+        "education": 95,
+        "certifications": 70,
+        "projects": 65
+      },
+      "explanation": "Candidate evaluation (Local Fallback Analysis - Gemini API Rate Limited). Carol Jenkins presents a solid 58% profile alignment for the AI Data Scientist position. Key strengths include demonstrated background in Product Management, Roadmap Definition, Agile/Scrum and a structured professional timeline. Core requirements matched: SQL. Areas for further technical review include missing skills: Python, PyTorch, LLMs.",
+      "missing_skills": [
+        "Python",
+        "PyTorch",
+        "LLMs",
+        "NLP"
+      ],
+      "key_strengths": [
+        "Technical background in Product Management",
+        "Proven work history in 2 organizations",
+        "Hands-on projects experience"
+      ],
+      "reason_for_not_match": "Candidate lacks documented experience in some core requirements: Python, PyTorch, LLMs."
+    }
+  },
+  "questions": {
+    "a093fbaa-18e5-4d1d-9aa9-65a1d33474ec_457d93f4-06bb-45a1-9f6e-17d2a53eecc8": [
+      {
+        "question": "Based on your resume, you have experience with Product Strategy. Can you explain a complex problem you solved using this technology?",
+        "category": "Technical",
+        "expected_answer": "Candidate should demonstrate deep hands-on expertise in Product Strategy, detailing architectural decisions, challenges, and measurable results."
+      },
+      {
+        "question": "Your resume highlights your work as a Technical Product Manager at SaaSify Inc. How did you collaborate with cross-functional partners to deliver on core features?",
+        "category": "Behavioral",
+        "expected_answer": "Candidate should show alignment with Agile frameworks, strong stakeholder communication, and active leadership within product engineering squads."
+      },
+      {
+        "question": "For your project 'LocalShop', how did you determine the tech stack and what were the performance tradeoffs you had to balance?",
+        "category": "Technical",
+        "expected_answer": "Look for system design clarity, resource optimizations, and understanding of scalability constraints in modern architectures."
+      },
+      {
+        "question": "Our role for Technical Product Manager requires proficiency in Product Strategy, Roadmap Definition, Agile/Scrum, SQL, Analytics, User Research. How would you quickly adapt to any tools in our stack you haven't worked with yet?",
+        "category": "Fitment",
+        "expected_answer": "Candidate should exhibit high learnability, proactive research habits, and reference past instances of mastering new tools under tight timelines."
+      },
+      {
+        "question": "Can you walk us through a time when a feature release failed or had critical bugs? How did you debug the issue and communicate it to stakeholders?",
+        "category": "Behavioral",
+        "expected_answer": "Evaluates resilience, transparency, debugging capabilities, and adherence to clean dev-ops and rollback protocols."
+      }
+    ],
+    "87a59986-90e5-4c7e-b553-4d0beeb79621_4db8174c-a8aa-4697-a74c-f6c071cfd53f": [
+      {
+        "question": "Based on your resume, you have experience with Python. Can you explain a complex problem you solved using this technology?",
+        "category": "Technical",
+        "expected_answer": "Candidate should demonstrate deep hands-on expertise in Python, detailing architectural decisions, challenges, and measurable results."
+      },
+      {
+        "question": "Your resume highlights your work as a Data Scientist at Alpha Analytics Corp. How did you collaborate with cross-functional partners to deliver on core features?",
+        "category": "Behavioral",
+        "expected_answer": "Candidate should show alignment with Agile frameworks, strong stakeholder communication, and active leadership within product engineering squads."
+      },
+      {
+        "question": "For your project 'FinCheck', how did you determine the tech stack and what were the performance tradeoffs you had to balance?",
+        "category": "Technical",
+        "expected_answer": "Look for system design clarity, resource optimizations, and understanding of scalability constraints in modern architectures."
+      },
+      {
+        "question": "Our role for Frontend Engineer requires proficiency in React, Node.js, Python. How would you quickly adapt to any tools in our stack you haven't worked with yet?",
+        "category": "Fitment",
+        "expected_answer": "Candidate should exhibit high learnability, proactive research habits, and reference past instances of mastering new tools under tight timelines."
+      },
+      {
+        "question": "Can you walk us through a time when a feature release failed or had critical bugs? How did you debug the issue and communicate it to stakeholders?",
+        "category": "Behavioral",
+        "expected_answer": "Evaluates resilience, transparency, debugging capabilities, and adherence to clean dev-ops and rollback protocols."
+      }
+    ],
+    "455cc781-acc5-4f84-a869-3bd2107b7240_457d93f4-06bb-45a1-9f6e-17d2a53eecc8": [
+      {
+        "question": "Based on your resume, you have experience with Product Strategy. Can you explain a complex problem you solved using this technology?",
+        "category": "Technical",
+        "expected_answer": "Candidate should demonstrate deep hands-on expertise in Product Strategy, detailing architectural decisions, challenges, and measurable results."
+      },
+      {
+        "question": "Your resume highlights your work as a Technical Product Manager at SaaSify Inc. How did you collaborate with cross-functional partners to deliver on core features?",
+        "category": "Behavioral",
+        "expected_answer": "Candidate should show alignment with Agile frameworks, strong stakeholder communication, and active leadership within product engineering squads."
+      },
+      {
+        "question": "For your project 'LocalShop', how did you determine the tech stack and what were the performance tradeoffs you had to balance?",
+        "category": "Technical",
+        "expected_answer": "Look for system design clarity, resource optimizations, and understanding of scalability constraints in modern architectures."
+      },
+      {
+        "question": "Our role for Data Scientist requires proficiency in Python, SQL, PyTorch, TensorFlow, Scikit-learn, Machine Learning, NLP, Data Analytics. How would you quickly adapt to any tools in our stack you haven't worked with yet?",
+        "category": "Fitment",
+        "expected_answer": "Candidate should exhibit high learnability, proactive research habits, and reference past instances of mastering new tools under tight timelines."
+      },
+      {
+        "question": "Can you walk us through a time when a feature release failed or had critical bugs? How did you debug the issue and communicate it to stakeholders?",
+        "category": "Behavioral",
+        "expected_answer": "Evaluates resilience, transparency, debugging capabilities, and adherence to clean dev-ops and rollback protocols."
+      }
+    ],
+    "455cc781-acc5-4f84-a869-3bd2107b7240_4db8174c-a8aa-4697-a74c-f6c071cfd53f": [
+      {
+        "question": "Based on your resume, you have experience with Python. Can you explain a complex problem you solved using this technology?",
+        "category": "Technical",
+        "expected_answer": "Candidate should demonstrate deep hands-on expertise in Python, detailing architectural decisions, challenges, and measurable results."
+      },
+      {
+        "question": "Your resume highlights your work as a Data Scientist at Alpha Analytics Corp. How did you collaborate with cross-functional partners to deliver on core features?",
+        "category": "Behavioral",
+        "expected_answer": "Candidate should show alignment with Agile frameworks, strong stakeholder communication, and active leadership within product engineering squads."
+      },
+      {
+        "question": "For your project 'FinCheck', how did you determine the tech stack and what were the performance tradeoffs you had to balance?",
+        "category": "Technical",
+        "expected_answer": "Look for system design clarity, resource optimizations, and understanding of scalability constraints in modern architectures."
+      },
+      {
+        "question": "Our role for Data Scientist requires proficiency in Python, SQL, PyTorch, TensorFlow, Scikit-learn, Machine Learning, NLP, Data Analytics. How would you quickly adapt to any tools in our stack you haven't worked with yet?",
+        "category": "Fitment",
+        "expected_answer": "Candidate should exhibit high learnability, proactive research habits, and reference past instances of mastering new tools under tight timelines."
+      },
+      {
+        "question": "Can you walk us through a time when a feature release failed or had critical bugs? How did you debug the issue and communicate it to stakeholders?",
+        "category": "Behavioral",
+        "expected_answer": "Evaluates resilience, transparency, debugging capabilities, and adherence to clean dev-ops and rollback protocols."
+      }
+    ],
+    "87a59986-90e5-4c7e-b553-4d0beeb79621_3654ec83-c850-49c0-a21b-31137d890d1e": [
+      {
+        "question": "Based on your resume, you have experience with React. Can you explain a complex problem you solved using this technology?",
+        "category": "Technical",
+        "expected_answer": "Candidate should demonstrate deep hands-on expertise in React, detailing architectural decisions, challenges, and measurable results."
+      },
+      {
+        "question": "Your resume highlights your work as a Senior Software Engineer at CloudScale Solutions. How did you collaborate with cross-functional partners to deliver on core features?",
+        "category": "Behavioral",
+        "expected_answer": "Candidate should show alignment with Agile frameworks, strong stakeholder communication, and active leadership within product engineering squads."
+      },
+      {
+        "question": "For your project 'DevBoard', how did you determine the tech stack and what were the performance tradeoffs you had to balance?",
+        "category": "Technical",
+        "expected_answer": "Look for system design clarity, resource optimizations, and understanding of scalability constraints in modern architectures."
+      },
+      {
+        "question": "Our role for Frontend Engineer requires proficiency in React, Node.js, Python. How would you quickly adapt to any tools in our stack you haven't worked with yet?",
+        "category": "Fitment",
+        "expected_answer": "Candidate should exhibit high learnability, proactive research habits, and reference past instances of mastering new tools under tight timelines."
+      },
+      {
+        "question": "Can you walk us through a time when a feature release failed or had critical bugs? How did you debug the issue and communicate it to stakeholders?",
+        "category": "Behavioral",
+        "expected_answer": "Evaluates resilience, transparency, debugging capabilities, and adherence to clean dev-ops and rollback protocols."
+      }
+    ],
+    "a093fbaa-18e5-4d1d-9aa9-65a1d33474ec_4db8174c-a8aa-4697-a74c-f6c071cfd53f": [
+      {
+        "question": "Based on your resume, you have experience with Python. Can you explain a complex problem you solved using this technology?",
+        "category": "Technical",
+        "expected_answer": "Candidate should demonstrate deep hands-on expertise in Python, detailing architectural decisions, challenges, and measurable results."
+      },
+      {
+        "question": "Your resume highlights your work as a Data Scientist at Alpha Analytics Corp. How did you collaborate with cross-functional partners to deliver on core features?",
+        "category": "Behavioral",
+        "expected_answer": "Candidate should show alignment with Agile frameworks, strong stakeholder communication, and active leadership within product engineering squads."
+      },
+      {
+        "question": "For your project 'FinCheck', how did you determine the tech stack and what were the performance tradeoffs you had to balance?",
+        "category": "Technical",
+        "expected_answer": "Look for system design clarity, resource optimizations, and understanding of scalability constraints in modern architectures."
+      },
+      {
+        "question": "Our role for Technical Product Manager requires proficiency in Product Strategy, Roadmap Definition, Agile/Scrum, SQL, Analytics, User Research. How would you quickly adapt to any tools in our stack you haven't worked with yet?",
+        "category": "Fitment",
+        "expected_answer": "Candidate should exhibit high learnability, proactive research habits, and reference past instances of mastering new tools under tight timelines."
+      },
+      {
+        "question": "Can you walk us through a time when a feature release failed or had critical bugs? How did you debug the issue and communicate it to stakeholders?",
+        "category": "Behavioral",
+        "expected_answer": "Evaluates resilience, transparency, debugging capabilities, and adherence to clean dev-ops and rollback protocols."
+      }
+    ],
+    "87a59986-90e5-4c7e-b553-4d0beeb79621_457d93f4-06bb-45a1-9f6e-17d2a53eecc8": [
+      {
+        "question": "Based on your resume, you have experience with Product Strategy. Can you explain a complex problem you solved using this technology?",
+        "category": "Technical",
+        "expected_answer": "Candidate should demonstrate deep hands-on expertise in Product Strategy, detailing architectural decisions, challenges, and measurable results."
+      },
+      {
+        "question": "Your resume highlights your work as a Technical Product Manager at SaaSify Inc. How did you collaborate with cross-functional partners to deliver on core features?",
+        "category": "Behavioral",
+        "expected_answer": "Candidate should show alignment with Agile frameworks, strong stakeholder communication, and active leadership within product engineering squads."
+      },
+      {
+        "question": "For your project 'LocalShop', how did you determine the tech stack and what were the performance tradeoffs you had to balance?",
+        "category": "Technical",
+        "expected_answer": "Look for system design clarity, resource optimizations, and understanding of scalability constraints in modern architectures."
+      },
+      {
+        "question": "Our role for Frontend Engineer requires proficiency in React, Node.js, Python. How would you quickly adapt to any tools in our stack you haven't worked with yet?",
+        "category": "Fitment",
+        "expected_answer": "Candidate should exhibit high learnability, proactive research habits, and reference past instances of mastering new tools under tight timelines."
+      },
+      {
+        "question": "Can you walk us through a time when a feature release failed or had critical bugs? How did you debug the issue and communicate it to stakeholders?",
+        "category": "Behavioral",
+        "expected_answer": "Evaluates resilience, transparency, debugging capabilities, and adherence to clean dev-ops and rollback protocols."
+      }
+    ]
+  }
+}
